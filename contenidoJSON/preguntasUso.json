@@ -1,0 +1,297 @@
+[ 
+{ 
+"evaluacion":"1",
+"idpreg":1,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qui&eacute;n era el padre universal para los WAY&Uacute;U?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas</strong></span></p>",
+"tema":"<p>ORIGEN DE LA CULTURA.</p>"
+},
+{ 
+"evaluacion":"1",
+"idpreg":2,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;ntas leyendas existen sobre la creaci&oacute;n?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas</strong></span></p>",
+"tema":"<p>ORIGEN DE LA CULTURA.</p>"
+},
+{ 
+"evaluacion":"1",
+"idpreg":3,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las castas son representadas por.</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas</strong></span></p>",
+"tema":"<p>ORIGEN DE LA CULTURA.</p>"
+},
+{ 
+"evaluacion":"1",
+"idpreg":4,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se identifican las familias WAY&Uacute;U?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas</strong></span></p>",
+"tema":"<p>ORIGEN DE LA CULTURA.</p>"
+},
+{ 
+"evaluacion":"1",
+"idpreg":5,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Dentro de la familia WAY&Uacute;U quien se encarga de criar los ni&ntilde;os?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas</strong></span></p>",
+"tema":"<p>ORIGEN DE LA CULTURA.</p>"
+},
+{ 
+"evaluacion":"1",
+"idpreg":6,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Porque se escoge un anciano para liderar las actividades diarias?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas</strong></span></p>",
+"tema":"<p>ORIGEN DE LA CULTURA.</p>"
+},
+{ 
+"evaluacion":"5",
+"idpreg":7,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cuando la ni&ntilde;a WAY&Uacute;U le llega su primer periodo, a la primera persona a quien le dice es:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><strong><span style=\"font-size:16px\">Responda las siguientes Preguntas</span></strong></p>",
+"tema":"<p>LAS COSTUMBRES.</p>"
+},
+{ 
+"evaluacion":"5",
+"idpreg":8,
+"pregunta":"<p><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; alimentos consume la majayut durante el encierro? </span></span></strong></p>",
+"puntuacion":"10",
+"enunciado":"<p><strong><span style=\"font-size:16px\">Responda las siguientes Preguntas</span></strong></p>",
+"tema":"<p>LAS COSTUMBRES.</p>"
+},
+{ 
+"evaluacion":"5",
+"idpreg":9,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Durante el desarrollo a la ni&ntilde;a se le hace.</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><strong><span style=\"font-size:16px\">Responda las siguientes Preguntas</span></strong></p>",
+"tema":"<p>LAS COSTUMBRES.</p>"
+},
+{ 
+"evaluacion":"5",
+"idpreg":10,
+"pregunta":"<p><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;De d&oacute;nde sacan el agua para ba&ntilde;ar a la majayut?</span></span></strong></p>",
+"puntuacion":"10",
+"enunciado":"<p><strong><span style=\"font-size:16px\">Responda las siguientes Preguntas</span></strong></p>",
+"tema":"<p>LAS COSTUMBRES.</p>"
+},
+{ 
+"evaluacion":"5",
+"idpreg":11,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como se llama la medicina que toma la majayut</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><strong><span style=\"font-size:16px\">Responda las siguientes Preguntas</span></strong></p>",
+"tema":"<p>LAS COSTUMBRES.</p>"
+},
+{ 
+"evaluacion":"8",
+"idpreg":12,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La leyenda dice que walekeru es:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas</strong></span></p>",
+"tema":"<p>LA ARTESAN&Iacute;A.</p>"
+},
+{ 
+"evaluacion":"8",
+"idpreg":13,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se llaman los zapatos WAY&Uacute;U?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas</strong></span></p>",
+"tema":"<p>LA ARTESAN&Iacute;A.</p>"
+},
+{ 
+"evaluacion":"11",
+"idpreg":14,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es el esp&iacute;ritu que arregla huesos quebrados o dislocaciones?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las sigjuientes Preguntas</strong></span></p>",
+"tema":"<p>SERES ESPIRITUALES.</p>"
+},
+{ 
+"evaluacion":"11",
+"idpreg":15,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es el esp&iacute;ritu que adivina?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las sigjuientes Preguntas</strong></span></p>",
+"tema":"<p>SERES ESPIRITUALES.</p>"
+},
+{ 
+"evaluacion":"11",
+"idpreg":16,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es el esp&iacute;ritu que sana dolores musculares?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las sigjuientes Preguntas</strong></span></p>",
+"tema":"<p>SERES ESPIRITUALES.</p>"
+},
+{ 
+"evaluacion":"11",
+"idpreg":17,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es el esp&iacute;ritu que sana por medio de peque&ntilde;as quemaduras?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las sigjuientes Preguntas</strong></span></p>",
+"tema":"<p>SERES ESPIRITUALES.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":18,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los WAY&Uacute;U creen en dos mundos:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":19,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La fe del WAY&Uacute;U est&aacute; depositada en:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":20,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cuando se puede conjurar la lania:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":21,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como naci&oacute; maleiwa:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":22,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Pulowi y juya son:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":23,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Pulowi est&aacute; relacionada con:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":24,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Juya est&aacute; relacionada con:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"13",
+"idpreg":25,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wanulu es:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes Preguntas&nbsp;</strong></span></p>",
+"tema":"<p>LA RELIGI&Oacute;N.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":26,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El baile t&iacute;pico WAY&Uacute;U se llama:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":27,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El hombre danza hacia:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":28,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El baile acaba cuando:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":29,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El paso de la caricia se llama:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":30,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El paso de la hormiga se llama: </span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":31,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El paso de la torta se llama:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":32,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El paso del alcaraban se llama:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"15",
+"idpreg":33,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El pase del trompo se llama:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las siguientes preguntas&nbsp;</strong></span></p>",
+"tema":"<p>TIPOS DE BAILES DE LA YONNA.</p>"
+},
+{ 
+"evaluacion":"16",
+"idpreg":34,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De qu&eacute; color es la vestimenta:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las Siguientes Preguntas</strong></span></p>",
+"tema":"<p>VESTIMENTA PARA LA YONNA.</p>"
+},
+{ 
+"evaluacion":"16",
+"idpreg":35,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como se dice en WAY&Uacute;UNAIKI pa&ntilde;ol&oacute;n:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las Siguientes Preguntas</strong></span></p>",
+"tema":"<p>VESTIMENTA PARA LA YONNA.</p>"
+},
+{ 
+"evaluacion":"16",
+"idpreg":36,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como se llama el traje t&iacute;pico del hombre:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las Siguientes Preguntas</strong></span></p>",
+"tema":"<p>VESTIMENTA PARA LA YONNA.</p>"
+},
+{ 
+"evaluacion":"16",
+"idpreg":37,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Por qu&eacute; se visten de rojo:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\"><strong>Responda las Siguientes Preguntas</strong></span></p>",
+"tema":"<p>VESTIMENTA PARA LA YONNA.</p>"
+}]

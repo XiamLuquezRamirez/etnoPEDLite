@@ -1,0 +1,41 @@
+[ 
+{ 
+"pregunta":106,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jaipaii </span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":106,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Maikii</span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":106,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jawapia</span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":106,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alo&acute;uka.</span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":108,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Awarienta</span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":108,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Antioque&ntilde;o</span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":108,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Chirrinche</span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":108,
+"opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Soowa.</span></span></p>",
+"correcta":"no"
+}]

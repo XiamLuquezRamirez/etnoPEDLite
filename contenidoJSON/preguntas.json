@@ -1,0 +1,55 @@
+[ 
+{ 
+"evaluacion":"7",
+"idpreg":18970,
+"pregunta":"<p>PREGUNTA 1</p>",
+"puntuacion":"10",
+"enunciado":"<p>ESTA ES UNA PRUEBA</p>",
+"unidad":1,
+"tema":"<p>EL WAYUUNAIKI</p>"
+},
+{ 
+"evaluacion":"7",
+"idpreg":18971,
+"pregunta":"<p>PREGUNTA 2</p>",
+"puntuacion":"10",
+"enunciado":"<p>ESTA ES UNA PRUEBA</p>",
+"unidad":1,
+"tema":"<p>EL WAYUUNAIKI</p>"
+},
+{ 
+"evaluacion":"8",
+"idpreg":18972,
+"pregunta":"<p>PREGUNTA 1</p>",
+"puntuacion":"10",
+"enunciado":"<p>ESTA ES UNA PRUEBA</p>",
+"unidad":1,
+"tema":"<p>esta es na prueba</p>"
+},
+{ 
+"evaluacion":"8",
+"idpreg":18973,
+"pregunta":"<p>PREGUNTA 2</p>",
+"puntuacion":"10",
+"enunciado":"<p>ESTA ES UNA PRUEBA</p>",
+"unidad":1,
+"tema":"<p>esta es na prueba</p>"
+},
+{ 
+"evaluacion":"9",
+"idpreg":18974,
+"pregunta":"<p>PREGUNTA 1</p>",
+"puntuacion":"10",
+"enunciado":"<p>ESES</p>",
+"unidad":1,
+"tema":"<p>esta es na prueba</p>"
+},
+{ 
+"evaluacion":"11",
+"idpreg":18975,
+"pregunta":"<p>pregnta 1</p>",
+"puntuacion":"10",
+"enunciado":"<p>esta es una prueba</p>",
+"unidad":3,
+"tema":"<p>fvdf</p>"
+}]

@@ -1,0 +1,701 @@
+[ 
+{ 
+"pregunta":1,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El o&uuml;ts&uuml; (la piachi)</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":1,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">P&uuml;tchipu (palabrero)</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":1,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tata maleiiwa. (Dios)</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":2,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Existen 8 leyendas.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":2,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Existen 15 leyendas.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":2,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Existen muchas.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":3,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Animales.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":3,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una marca.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":3,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una letra.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":4,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Con apellidos.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":4,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tatuaje.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":4,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Con las castas.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":5,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La familia materna.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":5,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los abuelos paternos.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":5,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los padrinos.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":6,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Por ser hombre y mayor de la familia.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":6,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Por experiencia y sabidur&iacute;a.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":6,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Por ser hombre y fuerte.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":14,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ayajat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":14,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jip&acute;para</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":14,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Curakut</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":14,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Asijatkat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":15,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ayajat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":15,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jip&acute;para</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":15,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Curakut</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":15,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Asijatkat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":16,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ayajat</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":16,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jip&acute;para</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":16,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Curakut</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":16,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Asijatkat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":17,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ayajat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":17,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jip&acute;para</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":17,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Curakut</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":17,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Asijatkat</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El de los vivos y los muertos.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El de los vivos y zombies.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El de los muertos y zombies.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">B y C son correctas.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":19,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La lania</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":19,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Su destino</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":19,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La riqueza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":19,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La lluvia</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":20,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cuando tiene hambre.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":20,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cuando llaman por tel&eacute;fono al piache.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":20,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cuando el esp&iacute;ritu de la contra lo pida o autorice</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":20,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cuando hay un velorio.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":21,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De su mama y su papa.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":21,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De un armadillo y un zorrillo.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":21,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De un hombre y una loba.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":21,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De una mujer pre&ntilde;ada por un trueno</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":22,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cangrejos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":22,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Perros</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":22,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Semidioses</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":22,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dioses</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":23,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La riqueza y abundancia.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":23,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Con la sequ&iacute;a y los vientos.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":23,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Con la lluvia y tempestad.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":23,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">A y C son correctas.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":24,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La sequia </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":24,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Primavera</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":24,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Lluvia y fuerza de la vida.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":24,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Maldad</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":25,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El Dios supremo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":25,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La fe</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":25,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El bien</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":25,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El esp&iacute;ritu maligno de enfermedad y muerte</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":26,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Chichamaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":26,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Yonna</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":26,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">A y B son correctas.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":26,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">A y B son incorrectas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":27,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los lados.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":27,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Atr&aacute;s.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":27,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El frente.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":27,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Arriba.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":28,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La mujer se cae</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":28,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El hombre brinca</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":28,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La mujer salta</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":28,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La mujer tumba al hombre.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":29,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Samutkuya </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":29,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mushalekuaya</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":29,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jayumulerkuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":29,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Karaykuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":30,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Chocokuaya&nbsp; </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":30,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jeyukuaya</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":30,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Petkuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":30,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Anuwanakuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":31,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wawachikuaya </span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":31,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wainpiruaikuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":31,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Samutkuya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":31,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mushalekuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":32,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Samutkuya </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":32,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mushalekuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":32,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jayumulerkuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":32,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Karaykuaya</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":33,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Chocokuaya&nbsp; </span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":33,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jeyukuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":33,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Petkuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":33,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Anuwanakuaya</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":34,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Amarillo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":34,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Azul</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":34,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Rojo</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":34,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Verde</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":35,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ujot</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":35,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Yosu</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":35,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Susu</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":35,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ko&acute;usu</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":36,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">WAY&Uacute;UCO</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":36,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Waire&ntilde;a</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":36,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Manta</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":36,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">WAY&Uacute;UNAIKI</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":37,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Porque es s&iacute;mbolo de pertenencia hacia su sangre y su valor.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":37,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Porque les gusta ese color.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":37,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Porque son dalt&oacute;nicos.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":37,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las anteriores.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":7,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La abuela&nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":7,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tia paterna</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":7,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Hermana&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":7,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tia materna</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":8,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Sopa de pollo&nbsp;&nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":8,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Arroz de chivo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":8,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Nada&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":8,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mazamorra de ma&iacute;z y millo</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":9,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Fiesta&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":9,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Es encerrada en una habitaci&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":9,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se va de viaje&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":9,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La ponen hacer oficio</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":10,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Del rio</span></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":10,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Del jawey</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":10,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De la mucura&nbsp;&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":10,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">De la lluvia</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":11,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wararat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":11,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jayapia</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":11,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Murai</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":11,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ririput</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":12,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una hormiga&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":12,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una ara&ntilde;a</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":12,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una tar&aacute;ntula</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":13,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Susu</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":13,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Kapaterra</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":13,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Waire&ntilde;as</span></span></span></span></p>",
+"correcta":"si"
+}]

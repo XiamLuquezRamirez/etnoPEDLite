@@ -1,0 +1,91 @@
+[ 
+{ 
+"pregunta":18975,
+"opciones":"<p>correcta</p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18975,
+"opciones":"<p>opcion 2</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18975,
+"opciones":"<p>opcion 3</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18970,
+"opciones":"<p>OPCION 1</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18970,
+"opciones":"<p>OPCION 2</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18970,
+"opciones":"<p>CORRECTA</p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18971,
+"opciones":"<p>OPCION 1</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18971,
+"opciones":"<p>CORRECTA</p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18971,
+"opciones":"<p>OPCION 3</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18972,
+"opciones":"<p>OPCION 1</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18972,
+"opciones":"<p>CORRECTA</p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18972,
+"opciones":"<p>OPCION 3</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18973,
+"opciones":"<p>CORRECTA</p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18973,
+"opciones":"<p>OPCION 2</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18973,
+"opciones":"<p>OPCION 3</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18974,
+"opciones":"<p>CORRECTSA</p>",
+"correcta":"si"
+},
+{ 
+"pregunta":18974,
+"opciones":"<p>OCION 1</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":18974,
+"opciones":"<p>OPCION 2</p>",
+"correcta":"no"
+}]

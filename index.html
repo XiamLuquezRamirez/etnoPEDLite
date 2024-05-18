@@ -1,0 +1,218 @@
+<!-- - var menuBorder = true-->
+<!DOCTYPE html>
+<html class="loading" lang="en" data-textdirection="ltr">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=0, minimal-ui" />
+  <meta name="description"
+    content="Stack admin is super flexible, powerful, clean &amp; modern responsive bootstrap 4 admin template with unlimited possibilities." />
+  <meta name="keywords"
+    content="admin template, stack admin template, dashboard template, flat admin template, responsive admin template, web app" />
+  <meta name="author" content="PIXINVENT" />
+  <title>EtnoPED - Lite</title>
+  <link rel="shortcut icon" type="image/x-icon" href="app-assets/images/ico/PED.ico" />
+  <link href="app-assets/css/font.css" rel="stylesheet" />
+  <!-- BEGIN VENDOR CSS-->
+  <link rel="stylesheet" type="text/css" href="app-assets/css/vendors.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/extensions/unslider.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/vendors/css/weather-icons/climacons.min.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/fonts/meteocons/style.css" />
+  <!-- END VENDOR CSS-->
+  <!-- BEGIN STACK CSS-->
+  <link rel="stylesheet" type="text/css" href="app-assets/css/app.css" />
+  <!-- END STACK CSS-->
+  <!-- BEGIN Page Level CSS-->
+  <link rel="stylesheet" type="text/css" href="app-assets/css/core/menu/menu-types/vertical-menu.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/fonts/simple-line-icons/style.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/css/core/colors/palette-gradient.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/css/pages/timeline.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/css/pages/gallery.css" />
+  <link rel="stylesheet" type="text/css" href="app-assets/Hover-master/css/hover.css" />
+
+  <!-- END Page Level CSS-->
+  <!-- BEGIN Custom CSS-->
+  <link rel="stylesheet" type="text/css" href="assets/css/style.css" />
+  <!-- END Custom CSS-->
+  <style>
+    .loader-container {
+      position: fixed;
+      top: 50%;
+      right: 10px;
+      transform: translateY(-50%);
+      display: flex;
+      flex-direction: column;
+      align-items: flex-start;
+    }
+
+    .loader {
+      width: 90px;
+      height: 90px;
+      border-radius: 50%;
+      box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+      /* animation: rotate 10.0s infinite linear; */
+      margin-bottom: 10px;
+      /* Espaciado entre los divs */
+      background-size: cover;
+    }
+
+    /* Estilos específicos para cada div con imagen de fondo */
+    .loader1 {
+      background-image: url('images/inicio.png');
+    }
+
+    .loader2 {
+      background-image: url('images/atras.png');
+    }
+
+    /* glider animation */
+  .card:before {
+  content: '';
+  position: absolute;
+  height: 130%;
+  width: 1em;
+  background-color: aliceblue;
+  opacity: 0.14;
+  animation: glider 1.8s infinite linear;
+  animation-delay: 0.05s;
+}
+
+.card:after {
+  content: '';
+  position: absolute;
+  height: 120%;
+  width: 0.8em;
+  background-color: aliceblue;
+  opacity: 0.1;
+  animation: glider 1.8s infinite linear;
+}
+
+@keyframes glider {
+  0% {
+    transform: rotate(45deg) translate(-12em, 1.2em);
+  }
+
+  100% {
+    transform: rotate(45deg) translate(18em, -2.8em);
+  }
+}
+  </style>
+
+</head>
+
+<body style="background-image: url(images/backgroundAsig.png); background-size: cover; background-size: 100% 100%;"
+  class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar" data-open="click" data-menu="vertical-menu"
+  data-col="2-columns">
+  <!-- fixed-top-->
+  <!-- ////////////////////////////////////////////////////////////////////////////-->
+
+
+  <div class="app-content content" id="div-areas" style="margin-left: 0px">
+    <div class="content-wrapper">
+      <div class="content-header row">
+        <div class="logoP mb-2">
+          <img src="images/stack-logo-dark.png" width="400" alt="">
+        </div>
+      </div>
+      <div class="content-body">
+        <div class="row " style="justify-content: center;" id="Areas">
+          <div class="col-xl-4 col-lg-12 cards-div" onclick="$.CargarModulo('gramatica');">
+            <input type="hidden" value="" class="form-control" id="" value="" />
+            <div class="card border-blue hvr-grow-shadow box cajas"
+              style="background-image: url('app-assets/images/gramatica.png')">
+
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-12 cards-div" onclick="$.CargarModulo('usos');">
+            <input type="hidden" value="" class="form-control" id="" value="" />
+            <div class="card border-blue hvr-grow-shadow box cajas"
+              style="background-image: url('app-assets/images/usos.png')">
+
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-12 cards-div" onclick="$.CargarModulo('medicina');">
+            <input type="hidden" value="" class="form-control" id="" value="" />
+            <div class="card border-blue hvr-grow-shadow box cajas"
+              style="background-image: url('app-assets/images/medicina.png')">
+
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-12 cards-div" onclick="$.CargarModulo('diccionario');">
+            <input type="hidden" value="" class="form-control" id="" value="" />
+            <div class="card border-blue hvr-grow-shadow box cajas"
+              style="background-image: url('app-assets/images/diccionario.png')">
+
+            </div>
+          </div>
+          <div class="col-xl-4 col-lg-12 cards-div" onclick="$.CargarModulo('juegos');">
+            <input type="hidden" value="" class="form-control" id="" value="" />
+            <div class="card border-blue hvr-grow-shadow box cajas"
+              style="background-image: url('app-assets/images/juegos.png')">
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <hr>
+
+  <!-- ////////////////////////////////////////////////////////////////////////////-->
+  <footer class="footer footer-static footer-light navbar-border" style="margin-left: 0px;">
+    <p class="clearfix blue-grey lighten-2 text-sm-center mb-0 px-2">
+      <span class="float-md-left d-block d-md-inline-block">Copyright &copy;
+        <script>document.write(new Date().getFullYear());</script> <a class="text-bold-800 grey darken-2" href="#"
+          target="_blank">EtnoPED - Lite </a>, Todos los Derechos Reservados.
+      </span>
+      <!-- <span class="float-md-right d-block d-md-inline-block d-none d-lg-block">CSI Desarrollos e Ingenierias S.A.S <i
+          class="ft-book pink"></i></span> -->
+    </p>
+  </footer>
+
+  <!-- BEGIN VENDOR JS-->
+  <script src="app-assets/vendors/js/vendors.min.js" type="text/javascript"></script>
+  <!-- BEGIN VENDOR JS-->
+  <!-- BEGIN PAGE VENDOR JS-->
+  <script src="app-assets/vendors/js/extensions/unslider-min.js" type="text/javascript"></script>
+  <!-- END PAGE VENDOR JS-->
+  <!-- BEGIN STACK JS-->
+  <script src="app-assets/js/core/app-menu.js" type="text/javascript"></script>
+  <script src="app-assets/js/core/app.js" type="text/javascript"></script>
+
+  <!-- END STACK JS-->
+  <!-- BEGIN PAGE LEVEL JS-->
+  <script src="app-assets/js/jquery-migrate-3.0.0.min.js" type="text/javascript"></script>
+  <script src="app-assets/js/All.js" type="text/javascript"></script>
+  <!-- END PAGE LEVEL JS-->
+
+  <script>
+    $(document).ready(function () {
+      $.extend({
+        CargarModulo: function (opc){
+          switch (opc) {
+          case 'gramatica':
+         location.href = "gramatica.html";
+          break;
+          case 'usos':
+          location.href = "uso.html";
+          break;
+          case 'medicina':
+          location.href = "medicina.html";
+          break;
+          case 'diccionario':
+          location.href = "diccionario.html";
+          break;
+          case 'juegos':
+          location.href = "juegos.html";
+          break;
+          }
+        }
+      })
+
+    });
+  </script>
+
+</body>
+
+</html>
