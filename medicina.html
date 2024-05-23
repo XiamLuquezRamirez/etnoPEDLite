@@ -143,15 +143,11 @@
                     <div style="height: 100%; overflow: auto;">
                         <div class="app-content content" id="div-prueba" style="margin-left: 0px">
                             <div class="content-wrapper" style="padding: 0;">
-                                <div class="content-header row">
-                                    <div class="content-header-left col-md-12 col-12 mb-1">
-                                        <h3 class="titulos" style="text-transform: uppercase;" id="tituloUnidades"></h3>
-                                    </div>
-                                </div>
+                              
                                 <div class="content-body">
                                     <div class="tab-content px-1 pt-1" style="width: 100%;" id="Practica">
                                         <div class="card-content collapse show">
-                                            <div class="card-body">
+                                            <div class="card-body" style="padding: 0;">
                                                 <div id="div-preguntas" style="width: 100%; transition: all linear 5s;"
                                                     class="bs-callout-primary callout-border-left callout-transparent p-1">
                                                     <h4 class="primary"></h4>
@@ -249,6 +245,41 @@
             </div>
         </div>
     </div>
+    <!-- modal preguntas -->
+    <div class="modal fade text-left" id="ModPreparacion" tabindex="-1" role="dialog" aria-labelledby="myModalLabel15"
+        aria-hidden="true">
+        <div class="modal-dialog  modal-lg modal-dialog-centered" role="document">
+            <div class="modal-content" style="background-image: url(images/backgroundAsig.png);">
+                <div class="modal-header bg-success white" style="background-image: url(images/headerMV.png);">
+                    <h4 class="modal-title" id="titPreparacion"></h4>
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                        <span aria-hidden="true">×</span>
+                    </button>
+                </div>
+                <div class="content-body">
+                    <div class="tab-content px-1 pt-1" style="width: 100%;" id="Practica">
+                        <div class="card-content collapse show">
+
+                            <div id="div-preparacion" style="transition: all linear 5s;" class="card-body">
+                            </div>
+                            <video id="videoclipPrepa" width="100%" style="height:100%; display: none;"
+                                controls="controls" title="Video title">
+                                <source id="mp4videoAnimaPre" src="" type="video/mp4" />
+                            </video>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="modal-footer" style="padding: 0;">
+                    <footer id="footerAutor"
+                        style="text-align: left;position: absolute; left: 15px;  padding: 10px; font-size:9px; display:none;">
+                    </footer>
+
+                    <div id="btn_salirEval" onclick="$.ClosePreparacion();" class="loaderV loader4 box"></div>
+                </div>
+            </div>
+        </div>
+    </div>
 
     <!-- ////////////////////////////////////////////////////////////////////////////-->
     <footer class="footer footer-static footer-light navbar-border" style="margin-left: 0px">
@@ -293,6 +324,7 @@
         let pregInconrrectas = 0;
         let pregCorrectas = 0;
         let videSel = "";
+        let idcont = '';
 
         let arrayPreguntas = [];
         let preguntasMostradas = [];
@@ -346,7 +378,8 @@
                 mostrarDetMedi: function (element) {
                     videSel = 0;
                     console.log(element.getAttribute("data-nombre"));
-                    let idcont = element.getAttribute("data-id");
+                    idcont = element.getAttribute("data-id");
+                    console.log(idcont);
                     $wrapper.avnSkeleton();
                     let xhr = new XMLHttpRequest();
                     xhr.overrideMimeType("application/json");
@@ -368,6 +401,7 @@
 
                             $('#titu_temaAnim').html(tituloHTML);
                             $('#titu_Evaluacion').html("Evaluación - " + tituloHTML);
+                            $('#titPreparacion').html(tituloHTML);
 
                             // Evento de clic y táctil para abrir modal
                             $("#DetContUso img").on("click touchstart", function () {
@@ -430,6 +464,41 @@
                             } else {
                                 $("#btn_Medi").hide();
                             }
+                        }
+                    };
+                },
+                MostMedi: function () {
+                    $("#ModPreparacion").modal({ backdrop: 'static', keyboard: false });
+                    const xhttp = new XMLHttpRequest();
+                    xhttp.open("GET", "contenidoJSON/PrepMedicina.json", true);
+                    xhttp.send();
+                    var contendorCont = document.getElementById("div-preparacion");
+
+                    xhttp.onreadystatechange = function () {
+                        if (this.readyState == 4 && this.status == 200) {
+                            let datos = JSON.parse(xhttp.responseText);
+                            let arrayPrepa = datos.filter((e) => e.id == idcont);
+
+                            console.log(arrayPrepa);
+                            arrayPrepa.forEach(itemPrep => {
+                                contendorCont.innerHTML = itemPrep.cotenido_prepa;
+                                if (itemPrep.nomb_video_prepa !== "") {
+                                    $("#videoclipPrepa").show();
+                                    var videoID = 'videoclipPrepa';
+                                    var sourceID = 'mp4videoAnimaPre';
+                                    var newmp4 = "video/" + itemPrep.nomb_video_prepa;
+                                    // var newmp4 = "file:///storage/emulated/0/DCIM/" + carpetaSeleccionada + "/" + nomarchi;
+                                    $('#' + videoID).get(0).pause();
+                                    $('#' + sourceID).attr('src', newmp4);
+                                    $('#' + videoID).get(0).load();
+                                    $('#' + videoID).get(0).play();
+                                } else {
+                                    $("#videoclipPrepa").hide();
+                                }
+
+
+                            });
+
                         }
                     };
                 },
@@ -545,11 +614,14 @@
                 },
 
                 NuevaPractica: function () {
-                        pregInconrrectas = 0;
+                    pregInconrrectas = 0;
                     $.VerEvaluacion();
                 },
                 CloseEval: function () {
                     $('#Modpreguntas').modal('toggle');
+                },
+                ClosePreparacion: function () {
+                    $('#ModPreparacion').modal('toggle');
                 },
                 VolverUnid: function () {
                     $("#Temas").hide();
