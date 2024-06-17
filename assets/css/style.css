@@ -185,9 +185,7 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 }
 
 /* Estilos específicos para cada div con imagen de fondo */
-.loader1 {
-  background-image: url(../../images/inicio.png);
-}
+
 
 .loader2 {
   background-image: url(../../images/diccionario.png);
@@ -388,10 +386,6 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   animation: fadeInOut 5s infinite;
 }
 
-
-
-
-
 @keyframes fadeInOut {
   0% {
     opacity: 0.2;
@@ -567,7 +561,7 @@ backdrop-filter: unset;
   width: 100%;
   padding: 4%;
   background-image: url(../../images/interfaz/fodoPrincipal.png);
-  background-size: cover; 
+  background-size:cover;
 }
 
 .divPrincipalBotones{
@@ -580,6 +574,9 @@ backdrop-filter: unset;
   justify-content: center;
   padding: 3%;
   align-content: center;
+  -webkit-box-shadow: 7px 7px 28px -3px rgba(0,0,0,0.67);
+-moz-box-shadow: 7px 7px 28px -3px rgba(0,0,0,0.67);
+box-shadow: 7px 7px 28px -3px rgba(0,0,0,0.67);
 }
 
 
@@ -588,4 +585,44 @@ backdrop-filter: unset;
  height: 210px;
  background-size: 100% 100%;
  margin: 10px;
+}
+
+.gramaticaPrincipal{
+  height: 100%;
+  width: 100%;
+  background-image: url(../../images/interfaz/gramatica/fondoGramaticaPrincipal.png);
+  background-size:100% 100%;
+}
+
+
+.gramaticaPrincipal{
+  display: flex;
+  flex-direction: column;
+
+}
+
+
+
+/* Para navegadores basados en WebKit (Chrome, Safari) */
+::-webkit-scrollbar {
+  width: 12px; /* Ancho de la barra de desplazamiento */
+}
+
+::-webkit-scrollbar-track {
+  background: transparent; /* Fondo del track (pista) */
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(0, 0, 0, 0); /* Fondo del thumb (pulgar) */
+  border-radius: 6px; /* Bordes redondeados del thumb */
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(0, 0, 0, 0); /* Fondo del thumb cuando se pasa el mouse por encima */
+}
+
+/* Para Firefox */
+* {
+  scrollbar-width: thin; /* Ancho de la barra de desplazamiento */
+  scrollbar-color: rgba(0, 0, 0, 0) transparent; /* Color del thumb y del track */
 }
