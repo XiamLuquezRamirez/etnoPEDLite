@@ -90,7 +90,7 @@
     background-color: #fff; }
   .bs-callout-primary.callout-transparent {
     display: block;
-    border-color: #00B5B8 !important;
+    border-color: #fff92e !important;
     background-color: transparent;
     border-radius: 0.25rem;
     color: black; }

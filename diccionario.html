@@ -35,52 +35,67 @@
     <!-- BEGIN Custom CSS-->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" /> <!-- END Custom CSS-->
 
+    <style>
+           .bordesBotones {
+            color: #fff;
+            transition: all 0.3s ease-in-out 0s;
+            box-shadow: rgba(255, 120, 23, 0.698) 0px 0px 0px 0px;
+            animation: 1.2s cubic-bezier(0.8, 0, 0, 1) 0s infinite normal none running pulse;
+            align-items: center;
+            border: 0;
+        }
+
+        @keyframes pulse {
+            100% {
+                box-shadow: 0 0 0 20px rgba(193, 244, 246, 0);
+            }
+        }
+    </style>
+
 </head>
 
 <body class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar" data-open="click"
-    data-menu="vertical-menu" style="background-image: url(images/backgroundEval.png); background-size: 100% 100%;"
+    data-menu="vertical-menu" style="background-image: url(images/interfaz/diccionario/fondoDiccionarioPrincipal.png); background-size: 100% 100%; overflow: hidden !important;"
     data-col="2-columns">
     <!-- fixed-top-->
     <!-- ////////////////////////////////////////////////////////////////////////////-->
     <div class="app-content content animsition" style="margin-left: 0px;">
-        <div class="content-wrapper">
+        <div class="content-wrapper" style="padding: 0 !important;">
             <section id="card-drag-handle">
-                <div class="wrapper">
+                <div class="wrapper" >
                     <div class="row">
                         <div id="left-handles" class="col-md-12 col-sm-12 align-self-start container">
                             <div>
                                 <div class="text-center">
-                                    <h4 class="text-bold-600 mt-1" style="color: #E13463; font-size: 50px;">DICCIONARIO
+                                    <h4 class="text-bold-600 mt-3" style="color: #fff92e; font-size: 50px;">DICCIONARIO
                                         WUAYUUNAIKI</h4>
                                     <a class="heading-elements-toggle"><i
                                             class="fa fa-ellipsis-v font-medium-3"></i></a>
-
                                 </div>
-                                <div class="card-content">
+                                <div class="contResultado">
                                     <div class="card-body">
-                                        <section id="search-website" class="card overflow-hidden">
-                                           
-                                            <div class="card-content collapse show">
-                                                <div class="card-body pb-0">
+                                        <section id="search-website">                                           
+                                            <div class="card-content collapse show ">
+                                                <div class="card-body pb-0 ml-2 mr-2">
                                                     <fieldset class="form-group position-relative mb-0">
-                                                        <input type="text" style="color: #404E67"
-                                                            class="form-control form-control-xl input-xl"
+                                                        <input type="text" style="color: #404E67; border: 2px solid #FF6302;"
+                                                            class="form-control form-control-xl input-xl "
                                                             id="searchInput"
                                                             placeholder="Ingresa la Palabra a Buscar ...">
 
                                                     </fieldset>
                                                 </div>
 
-                                                <div id="resultadoBusqueda" class="card-body resultadoBusqueda">
+                                                <div  class="card-body">
+                                                    <div class="resultadoBusqueda" id="resultadoBusqueda">
 
-
+                                                    </div>
                                                 </div>
                                             </div>
                                         </section>
                                     </div>
                                 </div>
                             </div>
-
                         </div>
                     </div>
                 </div>
@@ -89,8 +104,8 @@
         </div>
     </div>
     <div class="loader-container">
-        <input type="hidden" id="IdCont" value="" />
-        <div onclick="history.back();" class="loader loader1 box"></div>
+        <div onclick="history.back();" style="background-image: url(images/interfaz/diccionario/inicio.png);"
+        class="loader bordesBotones"></div>
 
     </div>
     </div>
@@ -178,11 +193,10 @@
                     contenidoHTML += '  <div class="cardCollection mt-1">'
                         + '<div class="cardCollectionimg" style="background-image: url(images/imgDiccionario/' + imgPalabra + ');"></div>'
                         + '<div class="cardCollectiontextBox">'
-                        + ' <div class="cardCollectiontextContent  bullet-item">'
+                        + ' <div class="cardCollectiontextContent bullet-item">'
                         + resultados[i].palabra_espanol
                         + ' </div>'
                         + ' <strong style="font-weight: 600;">En guayuunaiki: </strong>' + resultados[i].palabra_wuayuunaiki + ''
-                        + ' <div></div>'
                         + ' </div>'
                         + ' </div>';
                 }

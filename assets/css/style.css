@@ -10,6 +10,19 @@ NOTE:
 PLACE HERE YOUR OWN SCSS CODES AND IF NEEDED, OVERRIDE THE STYLES FROM THE OTHER STYLESHEETS.
 WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BETTER LIKE THIS.  */
 
+body {
+  font-family: 'Gotham', sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 {
+  margin-bottom: 0.5rem;
+  font-family: 'Gotham', sans-serif;
+  font-weight: 400;
+  line-height: 1.2;
+  color: inherit;
+
+}
+
 .titulos {
   text-transform: uppercase;
   color: #fbba92;
@@ -152,12 +165,13 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 
 .loader-container {
   position: fixed;
-  top: 50%;
-  right: 10px;
-  transform: translateY(-50%);
+  top: 53%;
+  right: 60px;
+  transform: translateY(-53%);
   display: flex;
   flex-direction: column;
   align-items: flex-end;
+  transition: 1s ease;
 }
 
 .loader {
@@ -185,28 +199,6 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 }
 
 /* Estilos específicos para cada div con imagen de fondo */
-
-
-.loader2 {
-  background-image: url(../../images/diccionario.png);
-}
-
-.loader3 {
-  background-image: url(../../images/video.png);
-}
-
-.loader4 {
-  background-image: url(../../images/atras.png);
-}
-.loader5 {
-  background-image: url(../../images/eval.png);
-}
-.loader6 {
-  background-image: url(../../images/conversa.png);
-}
-.loader8 {
-  background-image: url(../../images/preparacion.png);
-}
 
 
 @keyframes rotate {
@@ -243,7 +235,22 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   width: 70%;
 }
 
-.modal-close-button {
+.modal-close-buttonG {
+  position: absolute;
+  top: 10px;
+  right: 15px;
+  color: #e7faff;
+  background-color: #7e2e8a;
+  border: none;
+  border-radius: 50%;
+  padding: 5px 10px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.5);
+  font-size: 30px;
+  width: 55px;
+}
+
+.modal-close-buttonU {
   position: absolute;
   top: 10px;
   right: 15px;
@@ -311,6 +318,7 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   font-weight: normal !important;
 }
 
+
 @keyframes myAnim {
   0% {
     background-position: center bottom;
@@ -354,16 +362,26 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   pointer-events: none !important;
 }
 
-.consUso {
+.consGramatica {
   position: absolute;
-  bottom: -12px;
-  right: 10px;
-  font-size: 50px;
-  -webkit-text-stroke: 1px rgb(224, 158, 65);
-  -webkit-text-fill-color: transparent;
-  opacity: 0;
+  right: 20px;
+  font-size: 90px;
+  -webkit-text-stroke: 1px #35006C;
+  /* -webkit-text-fill-color: transparent; */
+ 
   animation: fadeInOut 5s infinite;
 }
+
+.consUso {
+  position: absolute;
+  right: 20px;
+  font-size: 90px;
+  -webkit-text-stroke: 1px #0097ce;
+  /* -webkit-text-fill-color: transparent; */
+ 
+  animation: fadeInOut 5s infinite;
+}
+
 .consUsoTemUnid {
   position: absolute;
   bottom: -1px;
@@ -392,7 +410,7 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
     transform: translateY(2px);
   } /* Empieza con opacidad cero */
   50% {
-    opacity: 0.4;
+    opacity: 1;
     transform: translateY(-2px);
   } /* A la mitad de la animación, opacidad completa */
   100% {
@@ -413,11 +431,22 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 
 /* TARJETAS DE DICCIONARIO  */
 
+.contResultado{
+  background-image: url(../../images/interfaz/diccionario/fondoResultadoDiccionario.png);
+  height: 550px;
+  max-height: 550px;
+  background-size: 100% 100%;
+}
+
 .resultadoBusqueda{
   display: flex;
   flex-wrap: wrap;
   justify-content: space-between;
-  
+  padding: 10px 40px 20px 40px;
+  height: 400px;
+  overflow: auto;
+  align-content: center;
+  width: 93%;
 }
 
 .cardCollection {
@@ -430,10 +459,21 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
   justify-content: left;
   transition: 0.5s ease-in-out;
   box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.123);
-  border: 2px solid #faaa7c42;
+  border: 2px solid #FF6302;
   padding: 10px;
   padding-top: 20px;
-  padding-bottom: 20px;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-content: center;
+  overflow: auto;
+}
+
+.cardCollection p {
+  display: block;
+}
+
+.cardCollection p:first-of-type{
+  color: #FF6302;
 }
 
 .cardCollection:hover {
@@ -442,10 +482,12 @@ WE WILL RELEASE FUTURE UPDATES SO IN ORDER TO NOT OVERWRITE YOUR STYLES IT'S BET
 }
 
 .cardCollectionimg {
-  width: 70px;
-  height: 70px;
+  width: 60px;
+  height: 60px;
   border-radius: 10px;
   background-size: 100%;
+  background-repeat: no-repeat;
+  margin-top: -10px;
 
 }
 
@@ -551,8 +593,12 @@ backdrop-filter: unset;
 
 .bullet-item {
   list-style-type: circle; /* Tipo de viñeta */
-  margin-left: 15px; /* Sangría para la viñeta */
+  margin-left: 20px; /* Sangría para la viñeta */
   display: list-item; /* Asegura que el elemento actúe como un elemento de lista */
+color: #FF6302;
+font-weight: bold;
+font-size: 25px;
+margin-right: 0px;
 }
 
 .principal{
@@ -592,13 +638,53 @@ box-shadow: 7px 7px 28px -3px rgba(0,0,0,0.67);
   width: 100%;
   background-image: url(../../images/interfaz/gramatica/fondoGramaticaPrincipal.png);
   background-size:100% 100%;
+  transition: 3s ease;
+  display: flex;
+  flex-direction: column;
 }
 
 
-.gramaticaPrincipal{
+.usoPrincipal{
+  height: 100%;
+  width: 100%;
+  background-image: url(../../images/interfaz/uso/fondoUsoPrincipal.png);
+  background-size:100% 100%;
+  transition: 3s ease;
   display: flex;
   flex-direction: column;
+}
 
+
+.medicinaPrincipal{
+  height: 100%;
+  width: 100%;
+  background-image: url(../../images/interfaz/medicina/fondoMedicinaPrincipal.png);
+  background-size:100% 100%;
+  transition: 3s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.contJuegosPrincipal{
+  background-image: url(../../images/interfaz/juegos/fondoJuegos.png);
+  background-size: 100% 100%;
+  width: 100%;
+  padding: 20px 20px 50px 20px;
+}
+
+
+.contJuegos{
+  height: 500px;
+  width: 95%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.juego{
+  width: 250px;
+  height: 200px;
+  margin: 20px;
 }
 
 

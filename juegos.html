@@ -34,113 +34,65 @@
     <!-- END Page Level CSS-->
     <!-- BEGIN Custom CSS-->
     <link rel="stylesheet" type="text/css" href="assets/css/style.css" /> <!-- END Custom CSS-->
-    <style>
-        .col-lg-3 {
-            height: 230px;
-            cursor: pointer;
-            text-align: center;
-            padding: 5px;
-        }
 
-        #suma {
-            background-color: transparent !important;
-            border-radius: 10px;
-            padding: 10px;
-            height: 100%;
-        }
-
-        #suma p {
-            font-weight: bold;
-            font-size: 25px;
-            color: #612e82;
-        }
-
-        .container {
-            display: flex;
-            align-items: center;
-            justify-content: center;
-            min-height: 100vh;
-        }
-
-        body {
-            background: url('iconos/fondo.png');
-            background-size: cover;
-            background-position: center center;
-            background-attachment: fixed;
-            color: #fff;
-            height: 100vh;
-        }
-
-        .juego:hover {
-            -webkit-transform: scale(1.2);
-            -moz-transform: scale(1.2);
-            -o-transform: scale(1.2);
-            -ms-transform: scale(1.2);
-            transform: scale(1.2);
-            transition: all 1s;
-            cursor: pointer;
-        }
-
-      
-    </style>
 </head>
 
 <body class="vertical-layout vertical-menu 2-columns menu-expanded fixed-navbar" data-open="click"
-    data-menu="vertical-menu" style="background-image: url(images/backgroundEval.png); background-size: 100% 100%;"
+    data-menu="vertical-menu"
+    style="background-image: url(images/interfaz/juegos/fondoJuegoPrincipal.png); background-size: 100% 100%;"
     data-col="2-columns">
     <!-- fixed-top-->
     <!-- ////////////////////////////////////////////////////////////////////////////-->
     <div class="app-content content animsition" style="margin-left: 0px;">
-        <div class="content-wrapper">
+        <div class="content-wrapper" style="padding: 0rem 1rem 1rem 1rem;">
             <div class="text-center">
-                <h4 class="text-bold-600 mt-1" style="color: #E13463; font-size: 50px;">JUEGOS Y ACTIVIDADES</h4>
-                <a class="heading-elements-toggle"><i
-                        class="fa fa-ellipsis-v font-medium-3"></i></a>
+                <h4 class="text-bold-600 mt-3" style="color: #fff92e; font-size: 50px;">JUEGOS Y ACTIVIDADES</h4>
+                <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
 
             </div>
+            <div class="contJuegosPrincipal">
+                <div class="contJuegos">
+                    <div onclick="ver_juego('Juegos/wayuu/Adverbios/index.html')" class="juego">
+                        <div id="suma">
+                            <img src="images/interfaz/juegos/adverbios.png" width="100%" alt=""><br>
+                        </div>
+                    </div>
+                    <div onclick="ver_juego('Juegos/wayuu/Gramatica/index.html')" class="juego">
+                        <div id="suma">
+                            <img src="images/interfaz/juegos/Gramatica.png" width="100%" alt=""><br>
+                        </div>
+                    </div>
+                    <div onclick="ver_juego('Juegos/wayuu/Conociendonos/index.html')" class="juego">
+                        <div id="suma">
+                            <img src="images/interfaz/juegos/Conociendonos.png" width="100%" alt=""><br>
+                        </div>
+                    </div>
 
-            <div class="container">
-                <div class="row" style="margin-top: -50px; justify-content: center;" id="ListJuegos">
-                    <div onclick="ver_juego('Juegos/wayuu/Adverbios/index.html')" class="col-lg-4 juego pr-5">
+                    <div onclick="ver_juego('Juegos/wayuu/Principios/index.html')" class="juego">
                         <div id="suma">
-                            <img src="Juegos/iconos/adverbios.png" width="100%" alt=""><br>
+                            <img src="images/interfaz/juegos/principios.png" width="100%" alt=""><br>
                         </div>
                     </div>
-                    <div onclick="ver_juego('wayuu/Gramatica/index.html')" class="col-lg-4 juego pr-5">
+                    <div onclick="ver_juego('Juegos/wayuu/Completa/index.html')" class="juego">
                         <div id="suma">
-                            <img src="Juegos/iconos/Gramatica.png" width="100%" alt=""><br>
+                            <img src="images/interfaz/juegos/CompletaP.png" width="100%" alt=""><br>
                         </div>
                     </div>
-                    <div onclick="ver_juego('wayuu/Conociendonos/index.html')" class="col-lg-4 juego pr-5">
+                    <div onclick="ver_juego('Juegos/wayuu/CompletaF/index.html')" class="juego">
                         <div id="suma">
-                            <img src="Juegos/iconos/conociendonos.png" width="100%" alt=""><br>
+                            <img src="images/interfaz/juegos/CompletaF.png" width="100%" alt=""><br>
                         </div>
                     </div>
-        
-                    <div onclick="ver_juego('wayuu/Principios/index.html')" class="col-lg-4 juego pr-5">
-                        <div id="suma">
-                            <img src="Juegos/iconos/principios.png" width="100%" alt=""><br>
-                        </div>
-                    </div>
-                    <div onclick="ver_juego('wayuu/Completa/index.html')" class="col-lg-4 juego pr-5">
-                        <div id="suma">
-                            <img src="Juegos/iconos/completa.png" width="100%" alt=""><br>
-                        </div>
-                    </div>
-        
-        
                 </div>
-
             </div>
-        
-        
-            
 
         </div>
     </div>
     <div class="loader-container">
         <input type="hidden" id="IdCont" value="" />
-        <div onclick="history.back();" class="loader loader1 box"></div>
+        <div onclick="history.back()" style="background-image: url(images/interfaz/juegos/inicio.png);"
+            class="loader bordesBotones">
+        </div>
 
     </div>
     </div>
@@ -154,7 +106,7 @@
                 <a class="text-bold-800 grey darken-2" href="#" target="_blank">EtnoPED Lite
                 </a>, Todos los Derechos
                 Reservados.
-            </span>    
+            </span>
         </p>
     </footer>
 

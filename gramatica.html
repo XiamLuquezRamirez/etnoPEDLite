@@ -50,12 +50,22 @@
             }
         }
 
+        .card {
+            box-shadow: none;
+        }
+
+        .card-header {
+            background-color: transparent;
+        }
+
         #Titulo {
             font-size: 60px;
             font-weight: bold;
             text-align: center;
             margin-top: 3%;
             color: #35006C;
+            position: relative;
+            transition: top 4s ease;
         }
 
         .Listunidades {
@@ -64,6 +74,20 @@
             height: 35%;
             overflow: auto;
             margin-top: 2%;
+            position: relative;
+            transition: left 3s ease;
+            left: 0px;
+        }
+
+        .ListTemas {
+            width: 80%;
+            margin-left: 3%;
+            height: 500px;
+            overflow: auto;
+            margin-top: 4%;
+            position: relative;
+            transition: left 3s ease;
+            left: -1000px;
         }
 
         .contenido {
@@ -84,34 +108,176 @@
             font-size: 20px;
         }
 
+        .tema {
+            background-color: #F5F6F8;
+            height: 120px;
+            margin-top: 10px;
+            margin-bottom: 10px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            padding-left: 2%;
+            font-weight: bold;
+            color: #35006C;
+            font-size: 20px;
+            flex-wrap: wrap;
+            align-content: space-around;
+            line-height: 20px;
+            border: 2px solid #35006C;
+        }
+
+        #DetTema {
+            background-color: #F5F6F8;
+            height: 570px;
+            border-radius: 10px;
+            display: flex;
+            align-items: center;
+            padding-left: 2%;
+            font-weight: bold;
+            font-size: 20px;
+            flex-wrap: wrap;
+            align-content: space-around;
+            line-height: 20px;
+            border: 2px solid #35006C;
+            position: relative;
+            transition: left 3s ease;
+            left: -1500px;
+            top: -75px;
+            margin: 0 3%;
+        }
+
+        #DetTema section {
+            width: 87%;
+        }
+
+        .tema p {
+            margin-top: -5px;
+            margin-bottom: 0;
+        }
+
+        #divTituloTema {
+            background-color: #35006C;
+            position: -webkit-sticky;
+            /* Safari */
+            position: absolute;
+            top: -100px;
+            color: white;
+            height: 100px;
+            width: 100%;
+            color: #fff92e;
+            text-align: center;
+            z-index: 1000;
+            /* para asegurarse de que esté por encima de otros elementos */
+            transition: top 2s ease;
+        }
+
+        #divTituloTema p {
+            padding: 30px;
+            font-size: 30px;
+            font-weight: bold;
+            display: flex;
+            flex-wrap: wrap;
+            align-items: center;
+            align-content: center;
+        }
+
         .unidad p {
             margin-bottom: 0px;
         }
-        
-        .imgPricipal {
-            position: absolute;
-            bottom: 8%;
-            right: 11%;
-        }
-    </style>
 
+        #divImagenPrincipal {
+            bottom: 200px;
+            right: 170px;
+            position: absolute;
+            transition: bottom 3s ease;
+        }
+
+        #divImagenPersonajeEval {
+            bottom: 60px;
+            right: 110px;
+            position: absolute;
+            transition: bottom 3s ease;
+        }
+
+        #btn_AtrasTemEval {
+            bottom: 90px;
+            right: 60px;
+            position: absolute;
+            width: 50px;
+            height: 50px;
+            border-radius: 50%;
+            transition: bottom 3s ease;
+            background-size: cover;
+            cursor: pointer;
+            z-index: 1000;
+        }
+
+        #tituloTema {
+            color: #fff92e;
+            font-size: 30px;
+            position: relative;
+            top: -10%;
+            left: -1500px;
+            font-weight: bold;
+            transition: left 3s ease;
+        }
+
+        .divEval {
+            background-color: #35006C;
+        }
+
+        .divEvalDetalles {
+            background-color: #F5F6F8;
+            height: 500px;
+            margin: 5%;
+            border-radius: 10px;
+        }
+
+        .divOpcion {
+            border: 1px solid #35006C;
+            border-radius: 5px;
+            height: 70px;
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            padding: 2%;
+            margin-bottom: 10px;
+
+        }
+
+        .pstyle p {
+  margin-bottom: -10px;
+  width: 80%;
+  color: #35006C;
+}
+    </style>
 </head>
 
 <body style="overflow: hidden !important;">
     <!-- fixed-top-->
     <!-- ////////////////////////////////////////////////////////////////////////////-->
-    <div class="app-content gramaticaPrincipal" style="margin-left: 0px">
+    <div id="divTituloTema"></div>
+    <div class="app-content gramaticaPrincipal" id="gramaticaPrincipal" style="margin-left: 0px">
         <h1 id="Titulo">GRAMÁTICA Y LENGUAJE</h1>
-
         <div class="contenido">
-            <div class="Listunidades" id="LisUnidades">
-            
+            <div class="Listunidades" id="LisUnidades"></div>
+
+            <div id="ListTemas" class="ListTemas" style="display: none;"></div>
+            <div id="tituloTema" style="display: none"></div>
+            <div id="DetTema" style="display: none">
+
+                <section id="global-settings" style="height: 500px; overflow: auto;" class="card">
+                    <div class="card-header">
+                        <article class="wrapper" style="height: 100%; overflow: auto;">
+                            <header style="text-transform: capitalize;">Hola mundo </header>
+                            <main style="height: 100%; overflow: auto;"></main>
+                        </article>
+                    </div>
+                </section>
             </div>
-            <div id="ListTemas" style="display: none;"></div>
-            <div><img class="imgPricipal" width="300px" src="images/interfaz/gramatica/imgPrincipal.png" /></div>
-
+            <div id="divImagenPrincipal"><img class="imgPricipal" width="250px"
+                    src="images/interfaz/gramatica/imgPrincipal.png" /></div>
         </div>
-
     </div>
 
     <input type="hidden" id="unidadActual" value="" />
@@ -119,14 +285,17 @@
     <div class="loader-container">
         <input type="hidden" id="IdCont" value="" />
         <div onclick="history.back();" style="background-image: url(images/interfaz/gramatica/inicio.png);"
-            class="loader loader1 bordesBotones"></div>
-        <div id="btn_Video" style="display: none" onclick="$.VerListVideo()" class="loader loader3 box"></div>
-        <div id="btn_Eval" style="display: none" onclick="$.VerEvaluacion()" class="loader loader5 box"></div>
-        <div id="btn_Conver" style="display: none" onclick="$.VerConversacion()" class="loader loader6 box"></div>
+            class="loader bordesBotones"></div>
+        <div id="btn_Video" style="background-image: url(images/interfaz/gramatica/video.png);display: none"
+            onclick="$.VerListVideo()" class="loader bordesBotones"></div>
+        <div id="btn_Eval" style="background-image: url(images/interfaz/gramatica/evaluacion.png);display: none"
+            onclick="$.VerEvaluacion()" class="loader bordesBotones"></div>
+        <div id="btn_Conver" style="display: none" onclick="$.VerConversacion()" class="loader bordesBotones"></div>
 
-        <div id="btn_AtrasUnid" style="display: none" onclick="$.VolverUnid()" class="loader loader4 box"></div>
-        <div id="btn_AtrasTem" style="display: none;" onclick="$.VolverTema()" class="loader loader4 box"></div>
-
+        <div id="btn_AtrasUnid" style="background-image: url(images/interfaz/gramatica/atras.png);display: none"
+            onclick="$.VolverUnid()" class="loader bordesBotones"></div>
+        <div id="btn_AtrasTem" style="background-image: url(images/interfaz/gramatica/atras.png);display: none;"
+            onclick="$.VolverTema()" class="loader bordesBotones"></div>
     </div>
 
     <!-- modal animaciones -->
@@ -168,100 +337,84 @@
 
     <div class="modal fade text-left" id="Modpreguntas" tabindex="-1" role="dialog" aria-labelledby="myModalLabel15"
         aria-hidden="true">
-        <div class="modal-dialog  modal-lg modal-dialog-centered" role="document">
-            <div class="modal-content" style="background-image: url(images/backgroundAsig.png);">
-                <div class="modal-header bg-success white" style="background-image: url(images/headerMV.png);">
-                    <h4 class="modal-title" style="display: inline-flex;" id="titu_Evaluacion"></h4>
-                    <button type="button" class="close" data-dismiss="modal" aria-label="Close">
-                        <span aria-hidden="true">×</span>
-                    </button>
-                </div>
+        <div class="modal-dialog  modal-xl modal-dialog-centered" style="pointer-events: all !important;"
+            role="document">
+            <div class="modal-content divEval">
+                <div class="modal-body divEvalDetalles">
+                    <div class="tab-content px-1 pt-1" style="width: 100%;" id="Practica">
+                        <div class="card-content collapse show">
+                            <div class="card-body" style="padding: 0;">
+                                <div id="div-preguntas" style="width: 100%; transition: all linear 5s;"
+                                    class="bs-callout-primary callout-border-left callout-transparent p-1">
+                                    <h4 style="color: #35006C !important; text-transform: capitalize !important;"></h4>
+                                    <p></p>
+                                </div>
+                            </div>
+                            <div id="div-opciones" style="transition: all linear 5s;width: 70%;" class="card-body">
 
-                <div class="modal-body">
-                    <div style="height: 100%; overflow: auto;">
-                        <div class="app-content content" id="div-prueba" style="margin-left: 0px">
-                            <div class="content-wrapper" style="padding: 0;">
-
-                                <div class="content-body">
-                                    <div class="tab-content px-1 pt-1" style="width: 100%;" id="Practica">
-                                        <div class="card-content collapse show">
-                                            <div class="card-body" style="padding: 0;">
-                                                <div id="div-preguntas" style="width: 100%; transition: all linear 5s;"
-                                                    class="bs-callout-primary callout-border-left callout-transparent p-1">
-                                                    <h4 class="primary"></h4>
-                                                    <p></p>
-                                                </div>
-                                            </div>
-                                            <div id="div-opciones" style="transition: all linear 5s;" class="card-body">
-                                            </div>
-                                            <div id="div-resultado" style="display: none" class="card-body">
+                            </div>
+                            <div id="div-resultado" style="display: none; margin-top: -50px;" class="card-body">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <div>
+                                            <div class="card-content">
                                                 <div class="row">
-                                                    <div class="col-12">
-                                                        <div class="card">
-                                                            <div class="card-content">
-                                                                <div class="row">
-                                                                    <div
-                                                                        class="col-lg-2 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
-                                                                    </div>
-                                                                    <div
-                                                                        class="col-lg-8 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
-                                                                        <div class="card-body text-center">
-                                                                            <div class="card-header mb-0">
-                                                                                <h2 class="success" id="resulMensaje">
-                                                                                    FELICITACIONES
-                                                                                </h2>
-                                                                                <h3 id="resulMensajePunt"
-                                                                                    class="display-4 blue-grey darken-1">
+                                                    <div
+                                                        class="col-lg-2 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
+                                                    </div>
+                                                    <div
+                                                        class="col-lg-8 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
+                                                        <div class="card-body text-center">
+                                                            <div class="card-header p-0 m-0">
+                                                                <h2 class="success" id="resulMensaje">
+                                                                    FELICITACIONES
+                                                                </h2>
+                                                                <h3 id="resulMensajePunt"
+                                                                    class="display-4 blue-grey darken-1">
 
-                                                                                </h3>
-                                                                            </div>
-                                                                            <div class="card-content">
-                                                                                <div><img id="resulImg" src=""
-                                                                                        width="50%"
-                                                                                        class="rounded-circle img-border"
-                                                                                        alt="Card image" />
-                                                                                </div>
-                                                                                <ul class="list-inline clearfix mt-2">
-                                                                                    <li
-                                                                                        class="border-right-blue-grey border-right-lighten-2 pr-2">
-                                                                                        <h1 id="resulCorrectas"
-                                                                                            class="blue-grey darken-1 text-bold-400">
-
-                                                                                        </h1>
-                                                                                        <span class="success">
-                                                                                            <i class="icon-like"></i>
-                                                                                            Correctas</span>
-                                                                                    </li>
-                                                                                    <li class="pl-2">
-                                                                                        <h1 id="resulInconrrectas"
-                                                                                            class="blue-grey darken-1 text-bold-400">
-
-                                                                                        </h1>
-                                                                                        <span class="warning darken-2">
-                                                                                            <i class="icon-dislike"></i>
-                                                                                            Incorrectas</span>
-                                                                                    </li>
-                                                                                </ul>
-                                                                            </div>
-                                                                        </div>
-                                                                    </div>
-
-                                                                    <div
-                                                                        class="col-lg-2 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
-                                                                    </div>
-                                                                    <div
-                                                                        class="col-lg-12 col-md-12 col-sm-12 text-center">
-                                                                        <div class="form-group">
-                                                                            <button type="button" class="buttonResult"
-                                                                                onclick="$.NuevaPractica();">
-                                                                                <i class="fa fa-plus-square-o"></i>
-                                                                                Nuevas Preguntas
-                                                                            </button>
-
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
+                                                                </h3>
                                                             </div>
+                                                            <div class="card-content">
+                                                                <div><img id="resulImg" src="" width="60%"
+                                                                        class="rounded-circle img-border"
+                                                                        alt="Card image" />
+                                                                </div>
+                                                                <ul class="list-inline clearfix mt-2">
+                                                                    <li
+                                                                        class="border-right-blue-grey border-right-lighten-2 pr-2">
+                                                                        <h1 id="resulCorrectas"
+                                                                            class="blue-grey darken-1 text-bold-400">
+
+                                                                        </h1>
+                                                                        <span class="success">
+                                                                            <i class="icon-like"></i>
+                                                                            Correctas</span>
+                                                                    </li>
+                                                                    <li class="pl-2">
+                                                                        <h1 id="resulInconrrectas"
+                                                                            class="blue-grey darken-1 text-bold-400">
+
+                                                                        </h1>
+                                                                        <span class="warning darken-2">
+                                                                            <i class="icon-dislike"></i>
+                                                                            Incorrectas</span>
+                                                                    </li>
+                                                                </ul>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+
+                                                    <div
+                                                        class="col-lg-2 col-md-12 col-sm-12 border-right-blue-grey border-right-lighten-5">
+                                                    </div>
+                                                    <div class="col-lg-12 col-md-12 col-sm-12 text-center">
+                                                        <div class="form-group">
+                                                            <button type="button" class="buttonResult"
+                                                                onclick="$.NuevaPractica();">
+                                                                <i class="fa fa-plus-square-o"></i>
+                                                                Nuevas Preguntas
+                                                            </button>
+
                                                         </div>
                                                     </div>
                                                 </div>
@@ -273,14 +426,13 @@
                         </div>
                     </div>
                 </div>
-                <div class="modal-footer" style="padding: 0;">
-                    <footer id="footerAutor"
-                        style="text-align: left;position: absolute; left: 15px;  padding: 10px; font-size:9px; display:none;">
-                    </footer>
-
-                    <div id="btn_salirEval" onclick="$.CloseEval();" class="loaderV loader4 box"></div>
-                </div>
             </div>
+            <div id="divImagenPersonajeEval"><img width="300px" src="images/interfaz/gramatica/personajeEval.png" />
+            </div>
+            <div id="btn_AtrasTemEval" style="background-image: url(images/interfaz/gramatica/atras.png);"
+                onclick="$.salirEval()">
+            </div>
+
         </div>
     </div>
 
@@ -343,8 +495,8 @@
                             let x = 1;
                             let ContUnidades = '';
                             for (let itemUnid of datos) {
-                                ContUnidades +='<div data-id="' + itemUnid.id + '" data-nombre="' + itemUnid.nombre + '" onclick="$.mostrarTemas(this)" class="unidad">' + itemUnid.nombre + '</div>';
-                                x++;                            
+                                ContUnidades += '<div data-id="' + itemUnid.id + '" data-nombre="' + itemUnid.nombre + '" onclick="$.mostrarTemas(this)" class="unidad">' + itemUnid.nombre + '</div>';
+                                x++;
                             }
                             $("#LisUnidades").html(ContUnidades);
                         }
@@ -354,8 +506,39 @@
                     let unidad = element.getAttribute('data-id');
                     let nombre = element.getAttribute('data-nombre');
 
-                    document.getElementById("titu_Evaluacion").innerHTML = "Evaluación -" + nombre;
-                    document.getElementById("Titulo_asig").innerHTML = nombre;
+
+
+                    // document.getElementById("titu_Evaluacion").innerHTML = "Evaluación -" + nombre;
+                    document.getElementById("divTituloTema").innerHTML = nombre;
+
+
+                    var Titulo = document.getElementById("Titulo");
+                    Titulo.style.top = "-150px";
+
+                    var Listunidades = document.getElementById("LisUnidades");
+                    Listunidades.style.left = "-2000px";
+
+                    let divImgPrinc = document.getElementById("divImagenPrincipal");
+                    setTimeout(() => {
+                        divImgPrinc.style.bottom = "-700px";
+                    }, 200)
+
+                    setTimeout(() => {
+                        var divTitulo = document.getElementById("divTituloTema");
+                        divTitulo.style.top = "0px";
+
+                    }, 500)
+                    var ListTemas = document.getElementById("ListTemas");
+                    ListTemas.style.display = "block";
+                    setTimeout(() => {
+                        ListTemas.style.left = "0px";
+                    }, 800)
+
+
+
+                    setTimeout(() => {
+                        Listunidades.style.display = "none";
+                    }, 1000)
 
                     $("#unidadActual").val(unidad);
 
@@ -378,14 +561,18 @@
                                 if (itemTem.objetivo == null) {
                                     display = 'none';
                                 }
-                                ContTemas += '<div data-tema="' + itemTem.id + '" onclick="$.mostrarDetTemas(this)" class="temasClase  col-lg-12 col-md-12 col-sm-12"><p>' + itemTem.titulo + '</p><div class="pstyle" style="display: ' + display + '">' + itemTem.objetivo + '</div><p class="consUsoTem">' + x + '</p></div>'
+                                ContTemas += '<div data-tema="' + itemTem.id + '" data-titulo="' + itemTem.titulo + '" onclick="$.mostrarDetTemas(this)" class="tema">' + itemTem.titulo + '<div class="pstyle" style="display: ' + display + '">' + itemTem.objetivo + '</div><p class="consGramatica"><i class="fa fa-exclamation-circle" aria-hidden="true"></i></p></div>'
                                 x++;
                                 display = 'block';
                             }
 
-                            $("#LisTemas").html(ContTemas);
+
+
+                            $("#ListTemas").html(ContTemas);
                         }
                     };
+
+
 
                     $.verfEval(unidad);
                 },
@@ -412,7 +599,34 @@
                 },
                 mostrarDetTemas: function (element) {
 
+                    $wrapper.find("> main").html("");
+
+                    var divTitulo = document.getElementById("divTituloTema");
+                    divTitulo.style.top = "-100px";
+
+                    var ListTemas = document.getElementById("ListTemas");
+                    ListTemas.style.left = "-2000px";
+
+                    setTimeout(() => {
+                        ListTemas.style.display = "none";
+                    }, 2000)
+
+                    let divImgPrinc = document.getElementById("divImagenPrincipal");
+                    setTimeout(() => {
+                        divImgPrinc.style.bottom = "-700px";
+                    }, 200)
+
+                    let divPrincipal = document.getElementById("gramaticaPrincipal");
+                    setTimeout(() => {
+                        divPrincipal.style.backgroundImage = "url(images/interfaz/gramatica/fondoGramaticaSegundaria.png)";
+                    }, 1000)
+
+
                     let idcont = element.getAttribute("data-tema");
+                    let titulo = element.getAttribute("data-titulo");
+
+                    document.getElementById("tituloTema").innerHTML = titulo;
+
                     $wrapper.avnSkeleton();
                     let xhr = new XMLHttpRequest();
                     xhr.overrideMimeType("application/json");
@@ -424,22 +638,35 @@
                             let arrayTemas = datos.filter((e) => e.id == idcont);
                             let contenidoHTML = '';
 
+
                             arrayTemas.forEach(itemTem => {
                                 contenidoHTML += itemTem.contenido;
-                                $.habilitarVideo(itemTem.id);
+                               // $.habilitarVideo(itemTem.id);
                             });
+
+                            contenidoHTML = aumentarFontSizeEnHtml(contenidoHTML, 10);
 
                             $wrapper.avnSkeleton("remove");
                             $wrapper.find("> main").append(contenidoHTML);
 
                             // Evento de clic y táctil para abrir modal
-                            $("#DetContTema img").on("click touchstart", function () {
+                            $("#DetTema img").on("click touchstart", function () {
                                 abrirModal(this.src);
                             });
 
                             $("#IdCont").val(idcont);
-                            $("#Temas").hide();
-                            $("#DetContTema").show();
+
+                            var detTemas = document.getElementById("DetTema");
+                            var tituloTema = document.getElementById("tituloTema");
+                            detTemas.style.display = "block";
+                            tituloTema.style.display = "block";
+
+                            setTimeout(() => {
+                                detTemas.style.left = "0px";
+                                tituloTema.style.left = "50px";
+                            }, 4000)
+
+
                             $("#btn_AtrasUnid").hide();
                             $("#btn_AtrasTem").show();
                         }
@@ -461,7 +688,7 @@
 
                         var closeButton = document.createElement("button");
                         closeButton.innerHTML = "<i class='fa fa-close'></i>";
-                        closeButton.classList.add("modal-close-button");
+                        closeButton.classList.add("modal-close-buttonG");
                         modal.appendChild(closeButton);
 
                         document.body.appendChild(modal);
@@ -574,8 +801,6 @@
 
                             arrayPreguntas = preguntas.filter((e) => e.unidad == idUni);
 
-
-
                             if (arrayPreguntas.length < 10) {
                                 limit = arrayPreguntas.length;
                             }
@@ -584,7 +809,6 @@
                                 const randomIndex = obtenerIndiceAleatorio();
                                 randomElements.push(arrayPreguntas[randomIndex]);
                             }
-
 
                             mostPregunta();
                         }
@@ -608,10 +832,18 @@
                             let opciones = JSON.parse(xhttp2.responseText);
                             let arrayOpciones = opciones.filter((e) => e.pregunta == idPreg);
                             var x = 1;
+
                             for (let itemOpc of arrayOpciones) {
-                                contenido += ' <div style="width: 100%; cursor: pointer;" id="div-opcion' + x + '"  class="bs-callout-info callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow" onclick="$.VerfResp(' + x + ');" >' + '<div class="media align-items-stretch">' + '<div class="media-body p-1"><input type="hidden" id="idCorrecta' + x + '" name="correcta[]" value="' + itemOpc.correcta + '" />' + itemOpc.opciones + "</div>" + '<div id="div-bd-inf' + x + '" class="d-flex align-items-center bg-info callout-arrow-right position-relative p-2">' + '<i id="i-icon' + x + '" class="fa fa-info white font-medium-5"></i>' + "</div>" + "</div>" + "</div>";
+                                contenido += ' <div id="div-opcion' + x + '" onclick="$.VerfResp(' + x + ');"  class="divOpcion">'
+                                    + '<input type="hidden" id="idCorrecta' + x + '" name="correcta[]" value="' + itemOpc.correcta + '" /><div>' + itemOpc.opciones + '</div>'
+                                    + '<div><img id="verfRespCorrecta'+x+'" src="" width="60" /></div>'
+                                    + '</div>';
                                 x++;
                             }
+                            // for (let itemOpc of arrayOpciones) {
+                            //     contenido += ' <div style="width: 100%; cursor: pointer; border-color: #35006C !important;" id="div-opcion' + x + '"  class="bs-callout-info callout-square callout-bordered callout-transparent mt-1 " onclick="$.VerfResp(' + x + ');" >' + '<div class="media align-items-stretch">' + '<div class="media-body p-1"><input type="hidden" id="idCorrecta' + x + '" name="correcta[]" value="' + itemOpc.correcta + '" />' + itemOpc.opciones + "</div>" + '<div id="div-bd-inf' + x + '" style="border-right-color:#35006C !important" class="d-flex align-items-center bg-info callout-arrow-right position-relative p-2">' + '<i id="i-icon' + x + '" class="fa fa-info white font-medium-5"></i>' + "</div>" + "</div>" + "</div>";
+                            //     x++;
+                            // }
 
                             $("#div-opciones").html(contenido);
                         }
@@ -619,32 +851,28 @@
                 },
                 VerfResp: function (id) {
                     var Correcta = $("#idCorrecta" + id).val();
-                    let divOpciones = document.getElementById("div-opciones");
-                    divOpciones.classList.add("bloqOpciones");
-                    $("#div-opcion" + id).removeClass("bs-callout-info callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow");
-                    $("#div-bd-inf" + id).removeClass("d-flex align-items-center bg-info callout-arrow-right position-relative p-2");
-                    $("#i-icon" + id).removeClass("fa fa-info white font-medium-5");
+                    const divOpciones = document.getElementById("div-opciones");
+                    const imgs = divOpciones.querySelectorAll("img");
+
+                    imgs.forEach((item) => {
+                        item.src = "";
+                    });
+                    const imgOpciones = document.getElementById("verfRespCorrecta"+id);
+                    const divSel = document.getElementById("div-opcion"+id);
                     if (Correcta == "si") {
-                        $("#div-opcion" + id).addClass("bs-callout-success callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow");
-                        $("#div-bd-inf" + id).addClass("d-flex align-items-center bg-success callout-arrow-right position-relative p-2");
-                        $("#i-icon" + id).addClass("fa fa-check white font-medium-5");
-                        pregCorrectas++;
+                       imgOpciones.src = "images/correcta.png";
+                       pregCorrectas++;                       
+                       divSel.style.border = "2px solid #02b73f";
                     } else {
-                        $("#div-opcion" + id).addClass("bs-callout-warning callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow");
-                        $("#div-bd-inf" + id).addClass("d-flex align-items-center bg-warning callout-arrow-right position-relative p-2");
-                        $("#i-icon" + id).addClass("fa fa-times white font-medium-5");
+                        imgOpciones.src = "images/incorrecta.png";
+                        divSel.style.border = "2px solid #ff0101";
 
                         // Busca opcion correcta
                         $("input[name='correcta[]']").each(function (indice, elemento) {
                             if ($(elemento).val() === "si") {
                                 var id = elemento.id.slice(-1);
-
-                                $("#div-opcion" + id).removeClass("bs-callout-info callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow");
-                                $("#div-bd-inf" + id).removeClass("d-flex align-items-center bg-info callout-arrow-right position-relative p-2");
-                                $("#i-icon" + id).removeClass("fa fa-info white font-medium-5");
-                                $("#div-opcion" + id).addClass("bs-callout-success callout-square callout-bordered callout-transparent mt-1 hvr-grow-shadow");
-                                $("#div-bd-inf" + id).addClass("d-flex align-items-center bg-success callout-arrow-right position-relative p-2");
-                                $("#i-icon" + id).addClass("fa fa-check white font-medium-5");
+                                const imgOpcionesVerif = document.getElementById("verfRespCorrecta"+id);
+                                imgOpcionesVerif.src = "images/correcta.png";
                             }
                         });
                         pregInconrrectas++;
@@ -663,23 +891,95 @@
                     pregInconrrectas = 0;
                     $.VerEvaluacion();
                 },
-                CloseEval: function () {
+                salirEval: function () {
+
                     $('#Modpreguntas').modal('toggle');
                 },
                 VolverUnid: function () {
-                    $("#Temas").hide();
-                    $("#unidades").show();
-                    $("#btn_AtrasUnid").hide();
+                    var divTitulo = document.getElementById("divTituloTema");
+                    divTitulo.style.top = "-100px";
+
+                    setTimeout(() => {
+                        var Titulo = document.getElementById("Titulo");
+                        Titulo.style.top = "0px";
+
+                    }, 500)
+
+                    var ListTemas = document.getElementById("ListTemas");
+                    ListTemas.style.left = "-2000px";
+
+                    var Listunidades = document.getElementById("LisUnidades");
+
+                    setTimeout(() => {
+                        Listunidades.style.display = "block";
+                    }, 1200)
+
+                    setTimeout(() => {
+
+                        Listunidades.style.left = "0px";
+
+                    }, 1500)
+
+
+                    setTimeout(() => {
+                        ListTemas.style.display = "none";
+                    }, 2000)
+
+
+                    let divImgPrinc = document.getElementById("divImagenPrincipal");
+                    setTimeout(() => {
+                        divImgPrinc.style.bottom = "170px";
+                    }, 1200)
+
                     $("#btn_Eval").hide();
-                    $("#Titulo_asig").html("Gramática y lenguaje - Unidades");
+                    $("#btn_AtrasUnid").hide();
+
                 },
                 VolverTema: function () {
-                    $("#DetContTema").hide();
-                    $("#Temas").show();
+                    var divTitulo = document.getElementById("divTituloTema");
+                    divTitulo.style.top = "0px";
+
+                    var ListTemas = document.getElementById("ListTemas");
+
+                    var detTemas = document.getElementById("DetTema");
+                    var tituloTema = document.getElementById("tituloTema");
+
+
+
+                    setTimeout(() => {
+                        detTemas.style.left = "-1500px";
+                        tituloTema.style.left = "-800px";
+                    }, 100)
+
+
+                    setTimeout(() => {
+
+                        ListTemas.style.display = "block";
+                    }, 2000)
+                    setTimeout(() => {
+                        ListTemas.style.left = "0px";
+
+                    }, 2000)
+
+                    setTimeout(() => {
+                        detTemas.style.display = "none";
+                        tituloTema.style.display = "none";
+                    }, 2000)
+
+
+
+
+                    let divPrincipal = document.getElementById("gramaticaPrincipal");
+                    setTimeout(() => {
+                        divPrincipal.style.backgroundImage = "url(images/interfaz/gramatica/fondoGramaticaPrincipal.png)";
+                       
+                    }, 900)
+
+
                     $("#btn_AtrasTem").hide();
                     $("#btn_Video").hide();
                     $("#btn_AtrasUnid").show();
-                    $wrapper.avnSkeleton('display');
+                    //$wrapper.avnSkeleton('display');
                 },
                 AtrasModAnima: function () {
                     $("#ListAnimaciones").show();
@@ -696,6 +996,21 @@
             }); //
             $.cargarUnidades();
 
+            function aumentarFontSizeEnHtml(html, porcentaje) {
+                const parser = new DOMParser();
+                const doc = parser.parseFromString(html, 'text/html');
+                const elementos = doc.body.querySelectorAll('*');
+
+                elementos.forEach(elemento => {
+                    const style = window.getComputedStyle(elemento);
+                    const fontSize = parseFloat(style.fontSize);
+                    const nuevoFontSize = fontSize * (1 + porcentaje / 100);
+                    elemento.style.fontSize = nuevoFontSize + 'px';
+                });
+
+                return doc.body.innerHTML;
+            }
+
             function mostPregunta() {
 
                 const entries = Object.entries(randomElements);
@@ -705,7 +1020,7 @@
                 $("#div-preguntas").html(preg);
                 if (currentIndex < entries.length) {
                     const entry = entries[currentIndex];
-                    preg += '<h4 class="primary">' + entry[1]["tema"] + "</h4>";
+                    preg += '<h3 style="color: #35006C !important; font-weight: bold; text-transform: capitalize !important;">' + entry[1]["tema"] + "</h3>";
                     if (entry[1]["enunciado"] != null) {
                         preg += entry[1]["enunciado"];
                     }
