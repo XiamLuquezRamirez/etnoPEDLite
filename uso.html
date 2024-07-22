@@ -190,6 +190,21 @@
             right: 60px;
             position: absolute;
             transition: bottom 3s ease;
+            animation: rot 3s infinite ease;
+        }
+
+        @keyframes rot {
+            0% {
+                transform: rotateX(-15deg) translateY(0px);
+            }
+
+            50% {
+                transform: rotateX(-15deg) translateY(-10px);
+            }
+
+            100% {
+                transform: rotateX(-15deg) translateY(0px);
+            }
         }
 
         #divImagenPersonajeEval {
@@ -201,7 +216,7 @@
 
         #btn_AtrasTemEval {
             bottom: 90px;
-            right: 60px;
+            right: 70px;
             position: absolute;
             width: 50px;
             height: 50px;

@@ -190,6 +190,21 @@
             right: 170px;
             position: absolute;
             transition: bottom 3s ease;
+            animation: rot 2s infinite ease;
+        }
+
+        @keyframes rot {
+            0% {
+                transform: rotateX(-15deg) translateY(0px);
+            }
+
+            50% {
+                transform: rotateX(-15deg) translateY(-10px);
+            }
+
+            100% {
+                transform: rotateX(-15deg) translateY(0px);
+            }
         }
 
         #divImagenPersonajeEval {
@@ -201,7 +216,7 @@
 
         #btn_AtrasTemEval {
             bottom: 90px;
-            right: 60px;
+            right: 70px;
             position: absolute;
             width: 50px;
             height: 50px;
@@ -246,10 +261,10 @@
         }
 
         .pstyle p {
-  margin-bottom: -10px;
-  width: 80%;
-  color: #35006C;
-}
+            margin-bottom: -10px;
+            width: 80%;
+            color: #35006C;
+        }
     </style>
 </head>
 
@@ -641,7 +656,7 @@
 
                             arrayTemas.forEach(itemTem => {
                                 contenidoHTML += itemTem.contenido;
-                               // $.habilitarVideo(itemTem.id);
+                                // $.habilitarVideo(itemTem.id);
                             });
 
                             contenidoHTML = aumentarFontSizeEnHtml(contenidoHTML, 10);
@@ -836,7 +851,7 @@
                             for (let itemOpc of arrayOpciones) {
                                 contenido += ' <div id="div-opcion' + x + '" onclick="$.VerfResp(' + x + ');"  class="divOpcion">'
                                     + '<input type="hidden" id="idCorrecta' + x + '" name="correcta[]" value="' + itemOpc.correcta + '" /><div>' + itemOpc.opciones + '</div>'
-                                    + '<div><img id="verfRespCorrecta'+x+'" src="" width="60" /></div>'
+                                    + '<div><img id="verfRespCorrecta' + x + '" src="" width="60" /></div>'
                                     + '</div>';
                                 x++;
                             }
@@ -857,12 +872,12 @@
                     imgs.forEach((item) => {
                         item.src = "";
                     });
-                    const imgOpciones = document.getElementById("verfRespCorrecta"+id);
-                    const divSel = document.getElementById("div-opcion"+id);
+                    const imgOpciones = document.getElementById("verfRespCorrecta" + id);
+                    const divSel = document.getElementById("div-opcion" + id);
                     if (Correcta == "si") {
-                       imgOpciones.src = "images/correcta.png";
-                       pregCorrectas++;                       
-                       divSel.style.border = "2px solid #02b73f";
+                        imgOpciones.src = "images/correcta.png";
+                        pregCorrectas++;
+                        divSel.style.border = "2px solid #02b73f";
                     } else {
                         imgOpciones.src = "images/incorrecta.png";
                         divSel.style.border = "2px solid #ff0101";
@@ -871,7 +886,7 @@
                         $("input[name='correcta[]']").each(function (indice, elemento) {
                             if ($(elemento).val() === "si") {
                                 var id = elemento.id.slice(-1);
-                                const imgOpcionesVerif = document.getElementById("verfRespCorrecta"+id);
+                                const imgOpcionesVerif = document.getElementById("verfRespCorrecta" + id);
                                 imgOpcionesVerif.src = "images/correcta.png";
                             }
                         });
@@ -972,7 +987,7 @@
                     let divPrincipal = document.getElementById("gramaticaPrincipal");
                     setTimeout(() => {
                         divPrincipal.style.backgroundImage = "url(images/interfaz/gramatica/fondoGramaticaPrincipal.png)";
-                       
+
                     }, 900)
 
 

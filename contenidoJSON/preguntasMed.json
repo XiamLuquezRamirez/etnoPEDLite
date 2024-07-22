@@ -14,4 +14,884 @@
 "pregunta":"<p><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se llama el ron que utilizan los wayuu para preparar los sobos?</span></span></strong></p>",
 "puntuacion":"10",
 "enunciado":"<p>RESPONDE LAS SIGUIENTES PREGUNTAS:</p>"
+},
+{ 
+"tema":"CONTEXTO DE LA MEDICINA TRADICIONAL WAYUU.",
+"idtema":"1",
+"idpreg":255,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las plantas medicinales son aquellas encontradas en la naturaleza y que son usadas por algunas culturas wayuu para:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Respondas las siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"CONTEXTO DE LA MEDICINA TRADICIONAL WAYUU.",
+"idtema":"1",
+"idpreg":256,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Respondas las siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"CONTEXTO DE LA MEDICINA TRADICIONAL WAYUU.",
+"idtema":"1",
+"idpreg":257,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\">&iquest;Qu&eacute; tipo de pr&aacute;cticas combina la medicina tradicional wayuu?</span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Respondas las siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"CONTEXTO DE LA MEDICINA TRADICIONAL WAYUU.",
+"idtema":"1",
+"idpreg":258,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\">&iquest;C&oacute;mo se transmite el conocimiento sobre la medicina tradicional wayuu?</span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Respondas las siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"PLANTAS MEDICINALES",
+"idtema":"2",
+"idpreg":259,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las medicinas tradicionales wayuu tienen diferente presentaci&oacute;n como pueden ser ra&iacute;ces, tallo, hoja, flor o en forma de bollo la cual es llamada</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"PLANTAS MEDICINALES",
+"idtema":"2",
+"idpreg":260,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; se utiliza la manzanilla en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"PLANTAS MEDICINALES",
+"idtema":"2",
+"idpreg":261,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; planta usan los wayuu para tratar infecciones y heridas?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"PLANTAS MEDICINALES",
+"idtema":"2",
+"idpreg":262,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se usan para hacer sobos a base de ron</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":263,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-family:&quot;Arial&quot;,sans-serif\">En cuanto a las enfermedades hay dos tipos estas son:</span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":264,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Son aquellas con s&iacute;ntomas o patolog&iacute;as que atacan cualquier parte del cuerpo.</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":265,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de enfermedades son tratadas con pr&aacute;cticas espirituales en la medicina tradicional wayuu?</span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":266,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tambi&eacute;n puede curar o proteger el alma de alg&uacute;n mal</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":267,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;les son las enfermedades que aquejan a los Wayuu no Graves?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":268,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cu&aacute;les son las enfermedades consideradas malignas y de alguna manera terminales.</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"TIPO DE ENFERMEDADES",
+"idtema":"3",
+"idpreg":269,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades que padecen los ni&ntilde;os Wayuu</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda Las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"MALUA-LA BIJA BLANCA",
+"idtema":"4",
+"idpreg":270,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el Malua-la Bija Blanca en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"MALUA-LA BIJA BLANCA",
+"idtema":"4",
+"idpreg":271,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de enfermedades utilizan los wayuu la planta Malua-la Bija Blanca?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"MALUA-LA BIJA BLANCA",
+"idtema":"4",
+"idpreg":272,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos de Malua-la Bija Blanca en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"MALUA-LA BIJA BLANCA",
+"idtema":"4",
+"idpreg":273,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte de la planta Malua-la Bija Blanca es com&uacute;nmente utilizada en los tratamientos?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p>Responda las Siguientes Preguntas</p>"
+},
+{ 
+"tema":"EL MALAMBO",
+"idtema":"5",
+"idpreg":274,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el Malambo en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Prerguntas</span></p>"
+},
+{ 
+"tema":"EL MALAMBO",
+"idtema":"5",
+"idpreg":275,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Malambo?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Prerguntas</span></p>"
+},
+{ 
+"tema":"EL MALAMBO",
+"idtema":"5",
+"idpreg":276,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se administra generalmente el Malambo en los tratamientos tradicionales wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Prerguntas</span></p>"
+},
+{ 
+"tema":"EL MALAMBO",
+"idtema":"5",
+"idpreg":277,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte del Malambo es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Prerguntas</span></p>"
+},
+{ 
+"tema":"EL MALAMBO",
+"idtema":"5",
+"idpreg":278,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cu&aacute;l es el nombre en guajiro del malambo</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Prerguntas</span></p>"
+},
+{ 
+"tema":"ACHIOTE",
+"idtema":"6",
+"idpreg":279,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el achiote en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ACHIOTE",
+"idtema":"6",
+"idpreg":280,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el achiote?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ACHIOTE",
+"idtema":"6",
+"idpreg":281,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos del achiote en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ACHIOTE",
+"idtema":"6",
+"idpreg":282,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara generalmente el achiote para su uso medicinal en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ACHIOTE",
+"idtema":"6",
+"idpreg":283,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte del achiote es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ACHIOTE",
+"idtema":"6",
+"idpreg":284,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El achiote es una gran fuente de la Vitamina </span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TUA TUA- AICHUWUA.",
+"idtema":"7",
+"idpreg":285,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el Tua Tua Aichuwua en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TUA TUA- AICHUWUA.",
+"idtema":"7",
+"idpreg":286,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Tua Tua Aichuwua?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TUA TUA- AICHUWUA.",
+"idtema":"7",
+"idpreg":287,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara generalmente el Tua Tua (Aichuwua) para su uso medicinal en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TUA TUA- AICHUWUA.",
+"idtema":"7",
+"idpreg":288,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte del Tua Tua Aichuwua es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TUA TUA- AICHUWUA.",
+"idtema":"7",
+"idpreg":289,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como se le conoce en el nombre guajiro a Tua Tua Aichuwua </span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"TUA TUA- AICHUWUA.",
+"idtema":"7",
+"idpreg":290,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;La tua tua contiene alguna vitamina? y cu&aacute;l es?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"Rüliipu SÁBILA- ÁLOE VERA",
+"idtema":"8",
+"idpreg":291,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el R&uuml;liipu (S&aacute;bila - Aloe Vera) en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"Rüliipu SÁBILA- ÁLOE VERA",
+"idtema":"8",
+"idpreg":292,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el R&uuml;liipu (Aloe Vera)?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"Rüliipu SÁBILA- ÁLOE VERA",
+"idtema":"8",
+"idpreg":293,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos del R&uuml;liipu (Aloe Vera) en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"Rüliipu SÁBILA- ÁLOE VERA",
+"idtema":"8",
+"idpreg":294,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se aplica generalmente el R&uuml;liipu (Aloe Vera) en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"Rüliipu SÁBILA- ÁLOE VERA",
+"idtema":"8",
+"idpreg":295,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte del R&uuml;liipu (S&aacute;bila - Aloe Vera) es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"Rüliipu SÁBILA- ÁLOE VERA",
+"idtema":"8",
+"idpreg":296,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Como se llama la (s&aacute;bila en wayunaiki)?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EL AATA O WARARAT (BEJUCO DE COSTILLO)",
+"idtema":"9",
+"idpreg":297,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el Aata o Wararat (Bejuco de Costillo) en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EL AATA O WARARAT (BEJUCO DE COSTILLO)",
+"idtema":"9",
+"idpreg":298,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Aata o Wararat (Bejuco de Costillo)?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EL AATA O WARARAT (BEJUCO DE COSTILLO)",
+"idtema":"9",
+"idpreg":299,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos del Aata o Wararat (Bejuco de Costillo) en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EL AATA O WARARAT (BEJUCO DE COSTILLO)",
+"idtema":"9",
+"idpreg":300,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara generalmente el Aata o Wararat (Bejuco de Costillo) para su uso medicinal en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EL AATA O WARARAT (BEJUCO DE COSTILLO)",
+"idtema":"9",
+"idpreg":301,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte del Aata o Wararat (Bejuco de Costillo) es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"LA BIJA (MALUWA)",
+"idtema":"10",
+"idpreg":302,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es la Bija (Maluwa) en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las suiguientes Preguntas</span></p>"
+},
+{ 
+"tema":"LA BIJA (MALUWA)",
+"idtema":"10",
+"idpreg":303,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos de la Bija (Maluwa) en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las suiguientes Preguntas</span></p>"
+},
+{ 
+"tema":"LA BIJA (MALUWA)",
+"idtema":"10",
+"idpreg":304,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte de la planta Bija (Maluwa) es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las suiguientes Preguntas</span></p>"
+},
+{ 
+"tema":"LA BIJA (MALUWA)",
+"idtema":"10",
+"idpreg":305,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos de la Bija (Maluwa) en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las suiguientes Preguntas</span></p>"
+},
+{ 
+"tema":"LA BIJA (MALUWA)",
+"idtema":"10",
+"idpreg":306,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se administra generalmente la Bija (Maluwa) en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las suiguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MUURAI.",
+"idtema":"11",
+"idpreg":307,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Muurai?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MUURAI.",
+"idtema":"11",
+"idpreg":308,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte de la planta Muurai es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MUURAI.",
+"idtema":"11",
+"idpreg":309,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de propiedades se le atribuyen al Muurai en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MUURAI.",
+"idtema":"11",
+"idpreg":310,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; otro nombre se le puede dar al Muurai entre los wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MUURAI.",
+"idtema":"11",
+"idpreg":311,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de preparaciones adicionales pueden hacer los wayuu con el Muurai adem&aacute;s de la infusi&oacute;n?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"PARRÜLUWA PICHIGÜEL",
+"idtema":"12",
+"idpreg":312,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Parr&uuml;luwa Pichig&uuml;el?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"PARRÜLUWA PICHIGÜEL",
+"idtema":"12",
+"idpreg":313,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos del Parr&uuml;luwa Pichig&uuml;el en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"PARRÜLUWA PICHIGÜEL",
+"idtema":"12",
+"idpreg":314,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los wayuu aparte de que lo utilizan como medicina sirve:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"PARRÜLUWA PICHIGÜEL",
+"idtema":"12",
+"idpreg":315,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">PARR&Uuml;LUWA PICHIG&Uuml;EL sirve para:</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"PARRÜLUWA PICHIGÜEL",
+"idtema":"12",
+"idpreg":316,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;D&oacute;nde se encuentra principalmente la planta </span></span></strong><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">PARR&Uuml;LUWA PICHIG&Uuml;EL</span></span></strong><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"DIVIDIVI  (IICHI)",
+"idtema":"13",
+"idpreg":317,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Dividivi (Iichi)?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"DIVIDIVI  (IICHI)",
+"idtema":"13",
+"idpreg":318,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los principales usos del Dividivi (Iichi) en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"DIVIDIVI  (IICHI)",
+"idtema":"13",
+"idpreg":319,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara generalmente el Dividivi (Iichi) para su uso medicinal en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"DIVIDIVI  (IICHI)",
+"idtema":"13",
+"idpreg":320,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte de la planta Dividivi (Iichi) es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"DIVIDIVI  (IICHI)",
+"idtema":"13",
+"idpreg":321,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de propiedades se le atribuyen al Dividivi (Iichi) en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"DIVIDIVI  (IICHI)",
+"idtema":"13",
+"idpreg":322,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los desaf&iacute;os principales en la preservaci&oacute;n del conocimiento sobre el Dividivi (Iichi) entre los wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MATARRATÓN (Matarratón)",
+"idtema":"14",
+"idpreg":323,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el Matarrat&oacute;n en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MATARRATÓN (Matarratón)",
+"idtema":"14",
+"idpreg":324,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; tipo de problemas de salud utilizan los wayuu el Matarrat&oacute;n?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MATARRATÓN (Matarratón)",
+"idtema":"14",
+"idpreg":325,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara generalmente el Matarrat&oacute;n para su uso medicinal en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MATARRATÓN (Matarratón)",
+"idtema":"14",
+"idpreg":326,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; parte de la planta Matarrat&oacute;n es com&uacute;nmente utilizada por los wayuu en sus tratamientos medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"MATARRATÓN (Matarratón)",
+"idtema":"14",
+"idpreg":327,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La planta Matarrat&oacute;n sus Las semillas, hojas, corteza y ra&iacute;z poseen sustancias.</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EXPERIENCIAS DE ALGUNOS POBLADORES DE LAS DIFERENTES COMUNIDADES DEL PUEBLO WAYUU",
+"idtema":"15",
+"idpreg":328,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los desaf&iacute;os en la preservaci&oacute;n del conocimiento sobre las ra&iacute;ces medicinales wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EXPERIENCIAS DE ALGUNOS POBLADORES DE LAS DIFERENTES COMUNIDADES DEL PUEBLO WAYUU",
+"idtema":"15",
+"idpreg":329,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; beneficio se asocia con la ra&iacute;z de Dividivi en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EXPERIENCIAS DE ALGUNOS POBLADORES DE LAS DIFERENTES COMUNIDADES DEL PUEBLO WAYUU",
+"idtema":"15",
+"idpreg":330,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara generalmente una infusi&oacute;n con ra&iacute;ces medicinales wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EXPERIENCIAS DE ALGUNOS POBLADORES DE LAS DIFERENTES COMUNIDADES DEL PUEBLO WAYUU",
+"idtema":"15",
+"idpreg":331,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo ha cambiado la vida en la comunidad wayuu a lo largo de los a&ntilde;os?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EXPERIENCIAS DE ALGUNOS POBLADORES DE LAS DIFERENTES COMUNIDADES DEL PUEBLO WAYUU",
+"idtema":"15",
+"idpreg":332,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;les son los desaf&iacute;os m&aacute;s grandes que se enfrenta la comunidad wayuu actualmente?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"EXPERIENCIAS DE ALGUNOS POBLADORES DE LAS DIFERENTES COMUNIDADES DEL PUEBLO WAYUU",
+"idtema":"15",
+"idpreg":333,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es tu relaci&oacute;n con la tierra y la naturaleza en la comunidad wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":334,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qui&eacute;nes son los outs&uuml; o piaches en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":335,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es una de las principales funciones de un piache en la comunidad wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":336,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo adquieren su conocimiento los piaches?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":337,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de plantas utilizan los piaches en sus pr&aacute;cticas medicinales?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":338,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es uno de los rituales m&aacute;s importantes realizados por los piaches?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":339,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; papel juegan los sue&ntilde;os en la labor de un piache?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":340,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de problemas de salud tratan los piaches?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"OUTSÜ O PIACHE: MÉDICOS ANCESTRALES",
+"idtema":"16",
+"idpreg":341,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; desaf&iacute;o enfrenta la tradici&oacute;n de los piaches en la actualidad?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"BOLLO BLANCO KA>ASUWOU",
+"idtema":"17",
+"idpreg":342,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es el proceso de elaboraci&oacute;n del bollo blanco ka&#39;asuwo en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguintes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"BOLLO BLANCO KA>ASUWOU",
+"idtema":"17",
+"idpreg":343,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; papel juega el ka&#39;asuwo en las ceremonias y rituales tradicionales de la comunidad wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguintes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"BOLLO BLANCO KA>ASUWOU",
+"idtema":"17",
+"idpreg":344,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se administra el ka&#39;asuwo durante el encierro de la majayulu (mujer adolescente) y cu&aacute;l es su significado en este proceso?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguintes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"BOLLO BLANCO KA>ASUWOU",
+"idtema":"17",
+"idpreg":345,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Existen otros nombres o t&eacute;rminos utilizados para referirse al bollo blanco ka&#39;asuwo en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguintes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"BOLLO BLANCO KA>ASUWOU",
+"idtema":"17",
+"idpreg":346,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;les son las creencias y mitos asociados al consumo del ka&#39;asuwo en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguintes Preguntas&nbsp;</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":347,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es el Ron de Culebra en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":348,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Para qu&eacute; se utiliza principalmente el Ron de Culebra en la medicina wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":349,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; ingrediente principal se utiliza en la preparaci&oacute;n del Ron de Culebra?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":350,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se consume tradicionalmente el Ron de Culebra?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":351,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; tipo de culebra se utiliza com&uacute;nmente para preparar el Ron de Culebra?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":352,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se prepara el Ron de Culebra para que sea efectivo medicinalmente?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"RON DE CULEBRA",
+"idtema":"18",
+"idpreg":353,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; precauciones se deben tomar al consumir Ron de Culebra?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"SEBO DE CHIVO -SE≥EPÜ",
+"idtema":"19",
+"idpreg":354,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;De d&oacute;nde se obtiene el sebo de chivo?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"SEBO DE CHIVO -SE≥EPÜ",
+"idtema":"19",
+"idpreg":355,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;C&oacute;mo se aplica el Sebo de Chivo en la medicina tradicional wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"SEBO DE CHIVO -SE≥EPÜ",
+"idtema":"19",
+"idpreg":356,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; precauciones se deben tomar al usar Sebo de Chivo?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"SEBO DE CHIVO -SE≥EPÜ",
+"idtema":"19",
+"idpreg":357,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;les son otras formas de uso del sebo de chivo?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"SEBO DE CHIVO -SE≥EPÜ",
+"idtema":"19",
+"idpreg":358,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;les son los usos principales del sebo de chivo?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"SEBO DE CHIVO -SE≥EPÜ",
+"idtema":"19",
+"idpreg":359,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;De qu&eacute; otra forma podemos utilizar el sebo de chivo?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ASEGURANSA O AMALUTO WAYUU",
+"idtema":"20",
+"idpreg":360,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; es la &quot;Aseguranza&quot; o &quot;Amaluto&quot; en la cultura wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ASEGURANSA O AMALUTO WAYUU",
+"idtema":"20",
+"idpreg":361,
+"pregunta":"<p><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Cu&aacute;l es el prop&oacute;sito principal de la &quot;Aseguranza&quot; o &quot;Amaluto&quot;?</span></span></strong></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ASEGURANSA O AMALUTO WAYUU",
+"idtema":"20",
+"idpreg":362,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qui&eacute;n suele llevar a cabo la ceremonia de &quot;Aseguranza&quot; o &quot;Amaluto&quot;?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ASEGURANSA O AMALUTO WAYUU",
+"idtema":"20",
+"idpreg":363,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&iquest;Qu&eacute; simboliza la &quot;Aseguranza&quot; o &quot;Amaluto&quot; para los wayuu?</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
+},
+{ 
+"tema":"ASEGURANSA O AMALUTO WAYUU",
+"idtema":"20",
+"idpreg":364,
+"pregunta":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><strong><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Es un elemento m&aacute;gico de m&aacute;xima protecci&oacute;n espiritual utilizado por los wayuu.</span></span></strong></span></span></p>",
+"puntuacion":"10",
+"enunciado":"<p><span style=\"font-size:16px\">Responda las Siguientes Preguntas</span></p>"
 }]

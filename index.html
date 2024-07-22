@@ -139,6 +139,8 @@
       margin-top: 0;
     }
 
+    /* background-color: #D00D4C; */
+
     .videoPlayer.show-nav {
       transform: rotate(-90deg);
     }
@@ -226,6 +228,7 @@
       transform: translate3d(0, 0, 0);
       opacity: 0;
       transition: opacity 1s ease;
+      margin: 10px;
     }
 
     .hidden {
@@ -405,14 +408,49 @@
       })
     });
 
+    function inicio () {    
+      if(sessionStorage.getItem('inicio')){
+        document.getElementById("div-areas").style.display = "block";
+        document.getElementById("inicioDiv").style.display = "none";
+        setTimeout(function () {
+          videoPlayer.style.display = "none";
+          var divAreas = document.getElementById("div-areas");
+          //var logo = document.querySelector(".logoP.mb-2");
+          var cards = document.querySelectorAll(".modulosPrincipal");
+
+          divAreas.style.display = "block";
+          divAreas.style.opacity = "1";
+          setTimeout(function () {
+            // logo.classList.remove("hidden");
+            // logo.classList.add("visible");
+            cards.forEach(function (card, index) {
+              setTimeout(function () {
+                card.classList.remove("hidden");
+                card.classList.add("visible");
+              }, 800 * (index + 1)); // Retraso de 500ms entre cada card
+            });
+          }, 50);
+        }, 500);
+
+      }
+    }
+
     function mostrarAnimacion() {
       let imagen = document.querySelector(".inicio img");
       let inicioDiv = document.getElementById("inicioDiv");
       let videoPlayer = document.getElementById("videoPlayer");
       imagen.style.animation = "tilt2 2s forwards";
-      imagen.addEventListener("animationend", function () {
-        videoPlayer.style.opacity = "1";
 
+      sessionStorage.setItem("inicio",true);
+
+      imagen.addEventListener("animationend", function () {
+       videoPlayer.style.opacity = "1";
+
+       var videoID = 'videoPlayer';
+       var sourceID = 'mp4video';
+       var nomarchi = "images/etnoped.mp4";
+       $('#' + sourceID).attr('src', nomarchi);
+       $('#' + videoID).get(0).load();
 
         setTimeout(function () {
           videoPlayer.style.display = "block";
@@ -424,29 +462,22 @@
         }, 10);
       });
 
-
-    }
+    }   
 
     function cargarYReproducirVideo() {
       var videoID = 'videoPlayer';
-      var sourceID = 'mp4video';
-      var nomarchi = "images/etnoped.mp4";
 
       // Cambiar la fuente del video
-      $('#' + sourceID).attr('src', nomarchi);
+   //   $('#' + sourceID).attr('src', nomarchi);
 
       // Recargar el video con la nueva fuente
-      $('#' + videoID).get(0).load();
-
+      
       // Reproducir el video
       $('#' + videoID).get(0).play();
 
       document.getElementById(videoID).addEventListener('ended', function () {
         var videoDIV = document.getElementById('videoPlayer');
         videoDIV.classList.add('show-nav');
-
-
-
         // videoPlayer.style.opacity = "0";
         setTimeout(function () {
           videoPlayer.style.display = "none";
@@ -471,6 +502,8 @@
 
     }
 
+
+    inicio();
     //document.addEventListener('DOMContentLoaded', cargarYReproducirVideo);
   </script>
 

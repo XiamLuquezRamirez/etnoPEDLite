@@ -1,5 +1,1165 @@
 [ 
 { 
+"pregunta":307,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":307,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":307,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":307,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la piel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":308,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":308,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":308,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La ra&iacute;z</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":308,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los tallos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":309,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades analg&eacute;sicas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":309,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades diur&eacute;ticas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":309,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades antitus&iacute;genas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":309,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades sedantes</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":310,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Yotojoro</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":310,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Achiote</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":310,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Yotojoro</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":310,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wararat</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":311,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Lo utilizan en rituales de purificaci&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":311,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Lo consumen en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":311,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Lo aplican como cataplasma en la piel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":311,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Lo utilizan como incienso</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":312,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":312,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":312,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":312,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la piel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":313,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":313,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como purgante para problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":313,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de infecciones de la piel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":313,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para Limpiar la Vista</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":314,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Proteger las casas de malos esp&iacute;ritus</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":314,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Curar sus enfermedades vascular</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":314,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":314,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":315,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de infecciones de la piel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":315,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":315,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecci&oacute;n en la orina</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":315,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":316,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Amazon&iacute;a</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":316,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los Andes</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":316,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La Guajira</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":316,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Patagonia</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":317,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":317,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":317,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":317,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se pueden usar como purgantes.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":318,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":318,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":318,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":318,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolor e Infecci&oacute;n en la Garganta</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":319,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":319,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma o ung&uuml;ento</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":319,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":319,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se utilizan los frutos verdes, se hierben y se hacen gargarismos.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":320,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":320,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":320,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza y frutos verdes</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":320,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los tallos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":321,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades astringentes</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":321,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades diur&eacute;ticas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":321,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades sedantes</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":321,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Propiedades analg&eacute;sicas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":322,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La falta de inter&eacute;s de las nuevas generaciones</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":322,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La regulaci&oacute;n gubernamental sobre su uso</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":322,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La escasez de la planta en su h&aacute;bitat natural</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":322,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La competencia con otras plantas medicinales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":323,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de danza ceremonial</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":323,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":323,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un canto ritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":323,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de alimento tradicional</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":324,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":324,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":324,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":324,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de afecciones d&eacute;rmicas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":325,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":325,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma o ung&uuml;ento</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":325,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":325,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se mastica directamente</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":326,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":326,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":326,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":326,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los tallos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":327,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">T&oacute;xicas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":327,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitaminas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":327,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Purificaci&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":327,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">C&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":328,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La falta de inter&eacute;s de los ancianos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":328,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La urbanizaci&oacute;n y p&eacute;rdida de tradiciones</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":328,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La sobreexplotaci&oacute;n de las ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":328,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La competencia con la medicina moderna</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":329,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio del estr&eacute;s</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":329,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas digestivos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":329,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mejora del sue&ntilde;o</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":329,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Reducci&oacute;n de infecciones cut&aacute;neas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":330,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se hierven las ra&iacute;ces y se cuela el l&iacute;quido</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":330,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se trituran las ra&iacute;ces y se comen crudas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":330,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se fermentan las ra&iacute;ces durante varios d&iacute;as</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":330,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se secan las ra&iacute;ces y se inhalan</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":331,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Modernidad y la Globalizaci&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":331,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Etnia</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":331,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":331,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":332,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Influencia de la Modernidad y la Globalizaci&oacute;n.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":332,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cultura y Tradiciones</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":332,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tierra y la Naturaleza</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":332,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas Las Anteriores</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":333,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Influencia de la Modernidad y la Globalizaci&oacute;n.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":333,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cultura y Tradiciones</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":333,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tierra y la Naturaleza</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":333,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas Las Anteriores</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":334,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">L&iacute;deres pol&iacute;ticos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":334,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Maestros de la escuela</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":334,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">M&eacute;dicos ancestrales y espirituales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":334,
+"opciones":"<p>Comerciantes tradicionales</p>",
+"correcta":"no"
+},
+{ 
+"pregunta":335,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Organizar fiestas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":335,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Sanar enfermedades y realizar ceremonias espirituales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":335,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ense&ntilde;ar en las escuelas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":335,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Administrar justicia</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":336,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">A trav&eacute;s de la educaci&oacute;n formal en universidades</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":336,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mediante sue&ntilde;os y ense&ntilde;anzas de otros piaches</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":336,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Leyendo libros antiguos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":336,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Asistiendo a seminarios internacionales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":337,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solo plantas ornamentales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":337,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Plantas medicinales locales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":337,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Plantas importadas de otros pa&iacute;ses</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":337,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Plantas marinas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":338,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ceremonia de la cosecha</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":338,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ritual de sanaci&oacute;n y protecci&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":338,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Competencia de danzas tradicionales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":338,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Festival del agua</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":339,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Son ignorados por completo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":339,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Son considerados mensajes y gu&iacute;as espirituales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":339,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Son solo una forma de entretenimiento</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":339,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se interpretan como signos de mala salud</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":340,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solo enfermedades f&iacute;sicas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":340,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades f&iacute;sicas y espirituales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":340,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solo enfermedades mentales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":340,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solo lesiones deportivas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":341,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La falta de plantas medicinales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":341,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La p&eacute;rdida de inter&eacute;s en las tradiciones ancestrales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":341,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La sobrecarga de trabajo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":341,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La competencia con la medicina moderna</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":342,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Piedra Blanca Rocosa</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":342,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un Papel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":342,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una Bebida</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":342,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":343,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Piedra Blanca Rocosa</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":343,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una Bebida</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":343,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ceremonias y Rituales Tradicionales</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":343,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":344,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Piedra Blanca Rocosa</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":344,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ceremonias y Rituales Tradicionales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":344,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Encierro de la Majayulu</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":344,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":345,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Bollo Sagrado o Bebida Blanca</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":345,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Piedra Blanca Rocosa</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":345,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una Bebida</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":345,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":346,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Poderes Purificadores y Curativos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":346,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cabo rituales de purificaci&oacute;n y preparaci&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":346,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Medicina tradicional wayuu</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":346,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":347,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de danza ceremonial</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":347,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una bebida alcoh&oacute;lica medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":347,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un canto ritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":347,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un amuleto de protecci&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":348,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para tratar problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":348,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como afrodis&iacute;aco</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":348,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para aliviar dolores musculares y reum&aacute;ticos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":348,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para mejorar el sue&ntilde;o</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":349,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Hojas de coca</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":349,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Veneno de culebra</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":349,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alcohol y una culebra macerada</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":349,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ra&iacute;ces de plantas medicinales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":350,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">En peque&ntilde;as dosis como t&oacute;nico</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":350,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">En grandes cantidades en fiestas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":350,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como parte de una dieta diaria</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":350,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solo en rituales religiosos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":351,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Culebra de jard&iacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":351,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Serpiente de cascabel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":351,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Boa constrictor</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":351,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">V&iacute;bora de la sabana</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":352,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se mezcla con hierbas medicinales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":352,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se macera una culebra en alcohol durante varios meses</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":352,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se hierve y se consume caliente</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":352,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se fermenta junto con frutas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":353,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Consumirlo solo bajo la supervisi&oacute;n de un m&eacute;dico tradicional wayuu</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":353,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Consumirlo en grandes cantidades para mayor efectividad</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":353,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">No mezclarlo con otros medicamentos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":353,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Evitar su consumo durante el embarazo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":354,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Grasa del ovejo</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":354,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Grasa del vaca</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":354,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de tejido</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":354,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":355,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se ingiere en forma de pastillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":355,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se frota sobre la piel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":355,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se mezcla con alimentos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":355,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":356,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Usarlo solo bajo la supervisi&oacute;n de un m&eacute;dico tradicional wayuu</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":356,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Usarlo en grandes cantidades para mayor efectividad</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":356,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">No mezclarlo con otros medicamentos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":356,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Evitar su uso durante el embarazo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":357,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores Articulares</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":357,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolor de estomago</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":357,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cardiaco</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":357,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":358,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cicatrizaci&oacute;n de la Piel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":358,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Hervirlo en agua</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":358,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El est&oacute;mago</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":358,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La cabeza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":359,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se utiliza en la cocina como aceite</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":359,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se ingiere en forma de pastillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":359,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se mezcla con alimentos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":359,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Estimulaci&oacute;n del apetito</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":360,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de ceremonia de protecci&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":360,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de medicina herbal</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":360,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un ritual para invocar la lluvia</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":360,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un sistema de comercio</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":361,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mejorar la cosecha</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":361,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Proteger a las personas de males y enfermedades</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":361,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Fortalecer los lazos familiares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":361,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Celebrar el inicio de la temporada de lluvias</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":362,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">El jefe de la comunidad</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":362,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un piache o curandero</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":362,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los ancianos del pueblo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":362,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los guerreros de la tribu</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":363,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La conexi&oacute;n con la naturaleza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":363,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La fuerza y la protecci&oacute;n espiritual</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":363,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La abundancia y prosperidad</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":363,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La paz y la armon&iacute;a</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":364,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La lan&iacute;a</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":364,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Cultural</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":364,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dinero y joyas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":364,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
 "pregunta":106,
 "opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jaipaii </span></span></p>",
 "correcta":"no"
@@ -37,5 +1197,1045 @@
 { 
 "pregunta":108,
 "opciones":"<p><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Soowa.</span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":255,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":255,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Sabidur&iacute;a</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":255,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Identidad</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":255,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":256,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una forma de medicina basada en plantas y rituales espirituales utilizada por los wayuu.</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":256,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de medicina moderna practicada en hospitales de La Guajira.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":256,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un sistema de medicina basado exclusivamente en medicamentos occidentales.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":256,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una pr&aacute;ctica m&eacute;dica que se utiliza solo en la ciudad de Bogot&aacute;.</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":257,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">Uso de plantas medicinales y cirug&iacute;a moderna</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":257,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">Infusiones de hierbas y tratamientos con medicamentos de farmacia</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":257,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">Plantas medicinales.</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":257,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">Terapias psicol&oacute;gicas y tratamientos qu&iacute;micos</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":258,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">A trav&eacute;s de la educaci&oacute;n formal en escuelas y universidades</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":258,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">Mediante libros y publicaciones cient&iacute;ficas</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":258,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">De generaci&oacute;n en generaci&oacute;n, oralmente y a trav&eacute;s de la pr&aacute;ctica</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":258,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\">A trav&eacute;s de programas de televisi&oacute;n y radio</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":259,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">jayapia o jayape</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":259,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Aloe Vera</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":259,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Manzanilla</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":259,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Botijero</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":260,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":260,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Calmante y para dolores</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":260,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":260,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Para infecciones de la piel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":261,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Aloe Vera</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":261,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Yotojoro</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":261,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ju&aacute;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":261,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ruda</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":262,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Chirinche</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":262,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ju&aacute;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":262,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ruda</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":262,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":263,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades f&iacute;sicas y espirituales </span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":263,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades espirituales y medicinas</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":263,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades f&iacute;sicas y tradicion</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":263,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las anteriores</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":264,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades Tradicionales </span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":264,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":264,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades f&iacute;sicas</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":264,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades Espirituales</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":265,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades f&iacute;sicas exclusivamente</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":265,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades espirituales</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":265,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solamente enfermedades digestivas</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":265,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Solamente enfermedades respiratoria</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":266,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La medicina ancestral wayuu</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":266,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Medicina Tradicional espiritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":266,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Medicina tradicional</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":266,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Todas las anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":267,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ayuulee</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":267,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Fisicas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":267,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Espirituales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":267,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":268,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Fisicas </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":268,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Espirituales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":268,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wan&uuml;l&uuml;&uuml;</span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":268,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":269,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\"><span style=\"color:black\">Pulajuwaa</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":269,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Espirituales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":269,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Wan&uuml;l&uuml;&uuml;</span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":269,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":270,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de ritual espiritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":270,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":270,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de animal usado en rituales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":270,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un canto tradicional</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":271,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Enfermedades respiratorias</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":271,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":271,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones y heridas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":271,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":272,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":272,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como calmante para el dolor</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":272,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Desinflamante y tratamiento de infecciones</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":272,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mejorar la vista</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":273,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":273,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":273,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las flores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":273,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":274,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un ritual de danza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":274,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":274,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un canto ceremonial</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":274,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de bebida fermentada</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":275,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":275,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":275,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":275,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la piel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":276,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se prepara en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":276,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume crudo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":276,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":276,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala el humo</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":277,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":277,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":277,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las flores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":277,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":278,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jaipaii&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":278,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Maikii&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":278,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jawapia&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":278,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alo&acute;uka</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":279,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un ritual de purificaci&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":279,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":279,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de mineral</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":279,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un instrumento musical</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":280,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":280,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la piel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":280,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":280,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores de cabeza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":281,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de heridas y cortes</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":281,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":281,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Reducci&oacute;n de fiebre</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":281,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mejora de la visi&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":282,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":282,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma o ung&uuml;ento</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":282,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":282,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala el humo de las hojas quemadas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":283,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":283,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":283,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":283,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":284,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitamina A</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":284,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitamina B</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":284,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitamina A Y B</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":284,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":285,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un canto ceremonial</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":285,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":285,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de ritual de danza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":285,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un mineral utilizado en rituales</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":286,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":286,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":286,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la piel</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":286,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolor de cabeza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":287,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":287,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":287,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":287,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala el humo de las hojas quemadas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":288,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":288,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":288,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":288,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":289,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Aich&uuml;a</span></span></span></span><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":289,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jaipaii&nbsp;&nbsp;&nbsp;&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":289,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Maikii&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":289,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jawapia&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":290,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitamina C</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":290,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitamina B</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":290,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Vitamina A Y B</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":290,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Ninguna de las Anteriores</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":291,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de canto ceremonial</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":291,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":291,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de danza ritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":291,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de bebida tradicionaL</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":292,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":292,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":292,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la piel</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":292,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":293,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":293,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como purgante para problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":293,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de quemaduras y heridas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":293,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Reducci&oacute;n de fiebre</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":294,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":294,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma o ung&uuml;ento</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":294,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":294,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala el vapor de las hojas quemadas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":295,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":295,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":295,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":295,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las ra&iacute;ces</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":296,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jaipaii&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":296,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Maikii&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":296,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Jawapia&nbsp;</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":296,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">R&uuml;liipu</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":297,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de ritual espiritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":297,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":297,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un instrumento musical</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":297,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una t&eacute;cnica de pesca</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":298,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas respiratorios</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":298,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":298,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Dolores musculares</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":298,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Infecciones de la pie</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":299,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":299,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como purgante para problemas digestivos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":299,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de problemas respiratorios y tos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":299,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Reducci&oacute;n de fiebre</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":300,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":300,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma o ung&uuml;ento</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":300,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":300,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala el humo de las hojas quemadas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":301,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":301,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":301,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":301,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los tallos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":302,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un tipo de danza ceremonial</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":302,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una planta medicinal</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":302,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Un canto ritual</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":302,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Una bebida tradicional</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":303,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":303,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como purgante para problemas digestivos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":303,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":303,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mejora de la memoria</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":304,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las semillas</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":304,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Las hojas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":304,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">La corteza</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":304,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Los frutos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":305,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Tratamiento de problemas card&iacute;acos</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":305,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Como purgante para problemas digestivos</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":305,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Alivio de problemas respiratorios</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":305,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Mejora de la memoria</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":306,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se consume en forma de c&aacute;psulas</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":306,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se aplica como cataplasma o ung&uuml;ento</span></span></span></span></p>",
+"correcta":"no"
+},
+{ 
+"pregunta":306,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se toma en infusi&oacute;n</span></span></span></span></p>",
+"correcta":"si"
+},
+{ 
+"pregunta":306,
+"opciones":"<p><span style=\"font-size:11pt\"><span style=\"font-family:Aptos,sans-serif\"><span style=\"font-size:12.0pt\"><span style=\"font-family:&quot;Arial&quot;,sans-serif\">Se inhala el vapor de las hojas</span></span></span></span></p>",
 "correcta":"no"
 }]
